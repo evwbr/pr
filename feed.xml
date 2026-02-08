@@ -4,101 +4,40 @@
  xmlns:dc="http://purl.org/dc/elements/1.1/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Evo Web News - PR (Segurança)</title>
+<title>Evo Web News - PR (Multi-fontes)</title>
 <atom:link href="https://evwbr.github.io/pr/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/pr/</link>
-<description>Notícias de segurança do Paraná (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sun, 08 Feb 2026 22:57:14 GMT</lastBuildDate>
+<description>Notícias do Paraná (últimas 24h) reescritas com IA - Evo Web News</description>
+<lastBuildDate>Sun, 08 Feb 2026 23:33:11 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Homem desaparece durante passeio na Pedreira do Orleans em Campo Magro]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_c643dbfb99767d07c9c1833463f34f92ccfe3334/</link>
+<title><![CDATA[Sanepar constrói maior reservatório de aço da América Latina em Curitiba]]></title>
+<link>https://prportais.com.br/destaque/sanepar-constroi-o-maior-reservatorio-em-aco-da-america-latina/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 08 Feb 2026 21:01:49 GMT</pubDate>
+<pubDate>Sun, 08 Feb 2026 12:37:00 GMT</pubDate>
 <category><![CDATA[Paraná]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:c643dbfb99767d07c9c1833463f34f92ccfe3334]]></guid>
-<description><![CDATA[Bruno César Fernandes de Almeida, de 29 anos, está desaparecido desde sábado após sair para um passeio de bicicleta na Pedreira do Orleans. Equipes do Corpo de Bombeiros continuam as buscas no local.]]></description>
+<guid isPermaLink="false"><![CDATA[prmulti:71a1115a512933cacdc8ed593b08bcdb818f6984]]></guid>
+<description><![CDATA[A Companhia de Saneamento do Paraná avança na ampliação do Centro de Reservação Tatuquara com um reservatório de aço de 10 milhões de litros.]]></description>
 <content:encoded><![CDATA[
-<p>Bruno César Fernandes de Almeida, de 29 anos, está desaparecido desde sábado após sair para um passeio de bicicleta na Pedreira do Orleans. Equipes do Corpo de Bombeiros continuam as buscas no local.</p>
-<p>Bruno César foi visto pela última vez no sábado, quando saiu de casa para ir até o lago da pedreira, onde pretendia passear e tomar banho. Desde então, não retornou para casa nem respondeu às mensagens e ligações da família.</p>
-<p>O Grupo de Operações de Socorro Tático (Gost) iniciou as buscas no domingo, contando com o auxílio de drones e um cão farejador. Frequentadores relataram que Bruno esteve na área da represa e foi visto saindo do local com a bicicleta preta que utilizava.</p>
-<p>O lago da pedreira possui profundidades que variam entre 14 e 30 metros. As buscas são realizadas tanto na área aquática quanto na região de mata próxima ao local. Gabriela Almeida, irmã de Bruno, fez um apelo por informações e afirmou que a família mantém a esperança de encontrá-lo bem e em casa. Bruno é estagiário em Educação Física e é descrito como uma pessoa tranquila e caseira, que costumava pedalar perto de casa.</p>
-<p>As equipes do Corpo de Bombeiros permanecem mobilizadas para localizar Bruno César na Pedreira do Orleans, em Campo Magro.</p>
+<p>A Companhia de Saneamento do Paraná avança na ampliação do Centro de Reservação Tatuquara com um reservatório de aço de 10 milhões de litros. O novo reservatório, que utiliza tecnologia de dupla camada, integra o Sistema de Abastecimento de Água de Curitiba e Região Metropolitana. A obra recebeu investimento aproximado de R$ 40 milhões e permitirá a operação conjunta dos reservatórios Miringuava, Passaúna e Iguaçu.</p>
+<p>Projetado para atender ao crescimento populacional em áreas como Campo do Santana e Fazenda Rio Grande, o empreendimento quase dobra a capacidade de reservação local, que atualmente é de 15 milhões de litros.</p>
+<p>Para viabilizar a integração do sistema, haverá uma parada programada no abastecimento na terça-feira (10), com normalização prevista para a madrugada de quarta-feira (11). A entrega desta etapa está prevista para meados de 2026.</p>
+<p>A ampliação do Centro de Reservação Tatuquara representa um avanço significativo na infraestrutura de abastecimento de água para Curitiba e região metropolitana.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Mãe denuncia tio por suspeita de abuso sexual contra filha de 3 anos em Curitiba]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_75003986dc173b5a19596c62c262f2dc8e31904c/</link>
+<title><![CDATA[Governo do Paraná publica edital para leilão de desestatização da Celepar]]></title>
+<link>https://prportais.com.br/destaque/governo-do-parana-publica-edital-para-leilao-de-desestatizacao-da-celepar/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 08 Feb 2026 15:37:30 GMT</pubDate>
+<pubDate>Sun, 08 Feb 2026 12:34:00 GMT</pubDate>
 <category><![CDATA[Paraná]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:75003986dc173b5a19596c62c262f2dc8e31904c]]></guid>
-<description><![CDATA[Uma criança de 3 anos foi levada ao hospital após suspeita de abuso sexual cometido pelo tio materno no bairro Parolin, em Curitiba.]]></description>
+<guid isPermaLink="false"><![CDATA[prmulti:a175167ac46939a448577c4dffb724e80cd42c66]]></guid>
+<description><![CDATA[O Governo do Paraná publicou o edital para a venda integral das ações da Celepar, com leilão marcado para 17 de março e valor mínimo de R$ 1,3 bilhão.]]></description>
 <content:encoded><![CDATA[
-<p>Uma criança de 3 anos foi levada ao hospital após suspeita de abuso sexual cometido pelo tio materno no bairro Parolin, em Curitiba. A mãe e a avó da menina precisaram sair de casa, deixando a criança sob os cuidados do tio de 17 anos. Durante esse período, o crime teria ocorrido. A avó recebeu uma ligação do jovem informando que havia dado banho na sobrinha após ela sujar a roupa e a cama.</p>
-<p>Ao retornarem, as mulheres notaram que a menina vestia as mesmas roupas, exceto a calcinha, que havia sido trocada. Durante o banho, a criança relatou sentir dor na região íntima. A mãe examinou a filha e constatou um ferimento. A menina teria dito que o tio a agrediu, usando uma expressão que a mãe nunca tinha ouvido antes.</p>
-<p>A criança foi imediatamente levada ao hospital, onde recebeu atendimento médico e passou por exames. A menina permanece internada sob cuidados médicos, sem previsão de alta. A tia da vítima ressaltou a importância de que a justiça seja feita para que casos como esse não se repitam.</p>
-<p>A mãe da criança falou sobre o impacto emocional, destacando o abalo causado por um crime vindo de alguém da confiança da família e ressaltou que o perigo pode estar dentro de casa.</p>
-<p>O boletim de ocorrência foi registrado e as investigações estão em andamento.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Homem é morto a facadas no Pinheirinho; autor se entrega à polícia]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_f713323eae8a80d6de636630358e479230ab62ec/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 08 Feb 2026 14:19:39 GMT</pubDate>
-<category><![CDATA[Paraná]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:f713323eae8a80d6de636630358e479230ab62ec]]></guid>
-<description><![CDATA[Um homem de 35 anos foi esfaqueado e morreu na calçada da Rua Egberto Acir Schimmelpfing Pereira, no bairro Pinheirinho, em Curitiba. O autor do crime se entregou durante o atendimento da ocorrência e foi preso em flagrante.]]></description>
-<content:encoded><![CDATA[
-<p>Um homem de 35 anos foi esfaqueado e morreu na calçada da Rua Egberto Acir Schimmelpfing Pereira, no bairro Pinheirinho, em Curitiba. O autor do crime se entregou durante o atendimento da ocorrência e foi preso em flagrante.</p>
-<p>A vítima foi atingida por cinco facadas no tórax após uma briga. Mesmo ferido, ele correu pela rua pedindo ajuda, mas não resistiu aos ferimentos e morreu no local. O Corpo de Bombeiros, Polícia Militar, Polícia Civil e Polícia Científica foram acionados para atender a ocorrência.</p>
-<p>O suspeito chegou ao local durante o atendimento e confessou o homicídio. Ele relatou que teria sido atingido com uma paulada na cabeça durante a briga, voltou para casa, pegou duas facas e retornou para atacar a vítima. As facas foram encontradas próximas a um riacho e serão analisadas pela perícia.</p>
-<p>A investigação indicou que tanto o autor quanto a vítima faziam uso de drogas e bebida alcoólica antes da briga. O suspeito apresentava sinais de embriaguez. O autor foi encaminhado à delegacia e está à disposição da Justiça.</p>
-<p>O crime ocorreu no início da manhã e segue sob investigação pelas autoridades competentes.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Homem espanca irmã após usar cocaína em Apucarana]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_8f19e746d87fdc9307f892c2705ea822a4080995/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 08 Feb 2026 13:34:34 GMT</pubDate>
-<category><![CDATA[Paraná]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:8f19e746d87fdc9307f892c2705ea822a4080995]]></guid>
-<description><![CDATA[Um homem agrediu fisicamente a própria irmã na madrugada deste domingo em Apucarana, no Norte do Paraná, após consumir cocaína.]]></description>
-<content:encoded><![CDATA[
-<p>Um homem agrediu fisicamente a própria irmã na madrugada deste domingo em Apucarana, no Norte do Paraná, após consumir cocaína. A Polícia Militar do Paraná foi acionada para atender uma ocorrência de violência doméstica. Inicialmente, a vítima não foi encontrada no endereço informado, mas foi localizada na casa de uma vizinha.</p>
-<p>A mulher relatou que o irmão, usuário de drogas, a espancou após usar cocaína. Apesar da agressão, ela recusou atendimento médico e optou por dormir na casa da vizinha para evitar o contato com o agressor.</p>
-<p>O homem foi detido pelos policiais no local da ocorrência. A Polícia Militar segue atuando para garantir a segurança das vítimas de violência doméstica na região.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Segurança é agredida com garrafa no rosto durante trabalho em Apucarana]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_edc55a83edf8028337f3bab00d733b5876a1ec08/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 08 Feb 2026 13:21:31 GMT</pubDate>
-<category><![CDATA[Paraná]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:edc55a83edf8028337f3bab00d733b5876a1ec08]]></guid>
-<description><![CDATA[Uma mulher de 33 anos, que trabalha como segurança, foi agredida com uma garrafa no rosto dentro de um estabelecimento em Apucarana, no norte do Paraná.]]></description>
-<content:encoded><![CDATA[
-<p>Uma mulher de 33 anos, que trabalha como segurança, foi agredida com uma garrafa no rosto dentro de um estabelecimento em Apucarana, no norte do Paraná. O ataque ocorreu na madrugada deste domingo, quando o agressor, impedido de retornar ao local, iniciou uma discussão com a vítima. Ele teria dito: 'só porque você é mulher acha que eu não bato em você' antes de desferir o golpe.</p>
-<p>A vítima foi socorrida e levada à Unidade de Pronto Atendimento, onde recebeu mais de 15 pontos no rosto após sutura realizada pelo médico plantonista. O suspeito, descrito como um homem moreno que vestia camiseta branca, fugiu após a agressão e ainda não foi localizado. A ocorrência foi registrada como lesão corporal e as investigações continuam.</p>
-<p>A Polícia Militar foi acionada, mas a vítima já havia sido encaminhada para atendimento quando a equipe chegou ao local.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Mulher é agredida com pedaço de madeira pelo marido em Faxinal]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_568e160d2ded32527eb4e945d7749bc1f85f9d74/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 08 Feb 2026 12:21:29 GMT</pubDate>
-<category><![CDATA[Paraná]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:568e160d2ded32527eb4e945d7749bc1f85f9d74]]></guid>
-<description><![CDATA[Uma mulher foi atacada com um pedaço de madeira pelo próprio marido após se recusar a ter relações sexuais, em Faxinal, no Norte do Paraná.]]></description>
-<content:encoded><![CDATA[
-<p>Uma mulher foi atacada com um pedaço de madeira pelo próprio marido após se recusar a ter relações sexuais, em Faxinal, no Norte do Paraná. O casal estava consumindo bebidas alcoólicas no quintal da casa quando o marido sugeriu ter uma relação sexual, proposta que foi negada pela esposa. Enraivecido, o homem agrediu a mulher na cabeça com um pedaço de madeira, causando sangramentos e uma lesão no couro cabeludo.</p>
-<p>Ao chegar ao local, a Polícia Militar encontrou ambos embriagados. O homem também apresentou marcas de ferimentos no tórax, afirmando ter sido agredido pela esposa. Durante a abordagem, ele ficou alterado e foi algemado.</p>
-<p>O casal foi encaminhado ao Hospital Municipal Juarez Barreto para atendimento das lesões. Posteriormente, o homem foi levado para a 53ª Delegacia Regional de Polícia Civil, onde permanece à disposição da Justiça.</p>
-<p>A vítima manifestou o desejo de se separar e solicitou medidas protetivas de urgência. O caso segue sob investigação e as autoridades acompanham a situação.</p>
+<p>O Governo do Paraná publicou o edital para a venda integral das ações da Celepar, com leilão marcado para 17 de março e valor mínimo de R$ 1,3 bilhão. O leilão da desestatização da Companhia de Tecnologia da Informação e Comunicação do Paraná será realizado na B3. Poderão participar empresas nacionais e estrangeiras, fundos e instituições financeiras que comprovem capacidade técnica e regularidade jurídica, fiscal e econômico-financeira para atuar em serviços de tecnologia com grau de complexidade equivalente ao da estatal.</p>
+<p>Mesmo com a transferência do controle, o Estado manterá uma golden share, garantindo poder de veto em decisões estratégicas, como mudança de sede ou deslocamento da infraestrutura de dados, que deverá permanecer no Paraná por ao menos dez anos.</p>
+<p>O edital exige a continuidade dos serviços, o cumprimento da Lei Geral de Proteção de Dados e a observância das diretrizes de governança digital, buscando assegurar estabilidade operacional durante a transição.</p>
+<p>O leilão representa um passo importante na reorganização da Celepar, com regras que garantem a manutenção da infraestrutura e dos serviços no Paraná.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
