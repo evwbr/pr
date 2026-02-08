@@ -3,13 +3,14 @@
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
  xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:media="http://search.yahoo.com/mrss/">
+ xmlns:media="http://search.yahoo.com/mrss/"
+ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <title>Evo Web News - PR (Banda B Segurança)</title>
 <atom:link href="https://evwbr.github.io/pr/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/pr/</link>
 <description>Notícias do Paraná (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sun, 08 Feb 2026 10:43:35 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 10:48:44 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
 <title><![CDATA[Adolescente de 12 anos desaparecido é encontrado próximo à rodoviária de Morretes]]></title>
@@ -18,52 +19,54 @@
 <pubDate>Sat, 07 Feb 2026 14:56:54 GMT</pubDate>
 <category><![CDATA[Paraná]]></category>
 <guid isPermaLink="false"><![CDATA[prbandabseg:a3f13b4038c137d9c837cce27ba06a429f15f247]]></guid>
-<description><![CDATA[Após quase 30 horas desaparecido, menino de 12 anos foi localizado perto da rodoviária de Morretes, no litoral do Paraná.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547400/evoweb/pr/prbandabseg_a3f13b4038c137d9c837cce27ba06a429f15f247.jpg" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547400/evoweb/pr/prbandabseg_a3f13b4038c137d9c837cce27ba06a429f15f247.jpg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547400/evoweb/pr/prbandabseg_a3f13b4038c137d9c837cce27ba06a429f15f247.jpg" type="image/jpeg" medium="image"/>
+<description><![CDATA[<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547400/evoweb/pr/prbandabseg_a3f13b4038c137d9c837cce27ba06a429f15f247.jpg"/></p><p>Após quase 30 horas desaparecido, um adolescente de 12 anos foi localizado nas proximidades da rodoviária de Morretes, no litoral do Paraná.</p>]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547400/evoweb/pr/prbandabseg_a3f13b4038c137d9c837cce27ba06a429f15f247.jpg" length="0" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547400/evoweb/pr/prbandabseg_a3f13b4038c137d9c837cce27ba06a429f15f247.jpg" width="1200" height="675"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547400/evoweb/pr/prbandabseg_a3f13b4038c137d9c837cce27ba06a429f15f247.jpg" type="image/jpeg" medium="image" width="1200" height="675"/>
+<itunes:image href="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547400/evoweb/pr/prbandabseg_a3f13b4038c137d9c837cce27ba06a429f15f247.jpg"/>
 <content:encoded><![CDATA[
-<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547400/evoweb/pr/prbandabseg_a3f13b4038c137d9c837cce27ba06a429f15f247.jpg" style="max-width:100%;height:auto"/></p>
-<p>Após quase 30 horas desaparecido, menino de 12 anos foi localizado perto da rodoviária de Morretes, no litoral do Paraná. O adolescente foi visto pela última vez por volta das 16h30 de quinta-feira e desapareceu por quase 30 horas. Buscas foram realizadas ao longo do dia para encontrar o menino.</p>
-<p>Ele foi encontrado por volta das 21h de sexta-feira nas proximidades da rodoviária de Morretes. Após os procedimentos necessários, o adolescente foi entregue aos seus responsáveis.</p>
-<p>Não há informações sobre ferimentos ou as circunstâncias do desaparecimento. A atuação integrada das equipes policiais foi fundamental para o sucesso da localização do adolescente.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547400/evoweb/pr/prbandabseg_a3f13b4038c137d9c837cce27ba06a429f15f247.jpg"/></p>
+<p>Após quase 30 horas desaparecido, um adolescente de 12 anos foi localizado nas proximidades da rodoviária de Morretes, no litoral do Paraná. O menino havia sido visto pela última vez por volta das 16h30 de quinta-feira e foi encontrado por volta das 21h de sexta-feira. Durante esse período, buscas foram realizadas ao longo do dia para localizá-lo.</p>
+<p>Após os procedimentos necessários, o adolescente foi entregue aos seus responsáveis. Não há informações sobre ferimentos ou as circunstâncias que envolveram o desaparecimento. A atuação integrada das equipes e o apoio de outros policiais foram fundamentais para o sucesso da localização do adolescente.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Criminosos invadem casa em Matinhos, trancam adolescente e roubam carro da família]]></title>
+<title><![CDATA[Criminosos invadem casa em Matinhos, trancam adolescente e roubam carro]]></title>
 <link>https://www.bandab.com.br/seguranca/bandidos-invadem-casa-adolescente-roubam-carro/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Sat, 07 Feb 2026 14:38:47 GMT</pubDate>
 <category><![CDATA[Paraná]]></category>
 <guid isPermaLink="false"><![CDATA[prbandabseg:eac9fd8876a4433cabe038f11bdc4be7dad280f1]]></guid>
-<description><![CDATA[Dois homens armados com facas invadiram uma residência no Balneário Albatroz, em Matinhos, trancaram um adolescente de 14 anos em um banheiro e levaram diversos pertences, incluindo um carro.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547405/evoweb/pr/prbandabseg_eac9fd8876a4433cabe038f11bdc4be7dad280f1.jpg" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547405/evoweb/pr/prbandabseg_eac9fd8876a4433cabe038f11bdc4be7dad280f1.jpg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547405/evoweb/pr/prbandabseg_eac9fd8876a4433cabe038f11bdc4be7dad280f1.jpg" type="image/jpeg" medium="image"/>
+<description><![CDATA[<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547405/evoweb/pr/prbandabseg_eac9fd8876a4433cabe038f11bdc4be7dad280f1.jpg"/></p><p>Dois homens armados com facas invadiram uma residência no Balneário Albatroz, trancaram um adolescente de 14 anos em um banheiro e levaram diversos pertences da família, incluindo um carro.</p>]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547405/evoweb/pr/prbandabseg_eac9fd8876a4433cabe038f11bdc4be7dad280f1.jpg" length="0" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547405/evoweb/pr/prbandabseg_eac9fd8876a4433cabe038f11bdc4be7dad280f1.jpg" width="1200" height="675"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547405/evoweb/pr/prbandabseg_eac9fd8876a4433cabe038f11bdc4be7dad280f1.jpg" type="image/jpeg" medium="image" width="1200" height="675"/>
+<itunes:image href="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547405/evoweb/pr/prbandabseg_eac9fd8876a4433cabe038f11bdc4be7dad280f1.jpg"/>
 <content:encoded><![CDATA[
-<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547405/evoweb/pr/prbandabseg_eac9fd8876a4433cabe038f11bdc4be7dad280f1.jpg" style="max-width:100%;height:auto"/></p>
-<p>Dois homens armados com facas invadiram uma residência no Balneário Albatroz, em Matinhos, trancaram um adolescente de 14 anos em um banheiro e levaram diversos pertences, incluindo um carro.</p>
-<p>O crime ocorreu por volta das 15h30 de uma sexta-feira. No momento da invasão, os responsáveis pelo adolescente não estavam na casa por motivos de saúde. Os suspeitos renderam o jovem e o mantiveram trancado enquanto recolhiam os objetos.</p>
-<p>Foram roubados celulares, televisões, calçados, malas com roupas destinadas à revenda e um carro. Após a comunicação do crime à polícia, buscas foram realizadas na região. Cerca de três horas depois, o veículo roubado foi encontrado abandonado em uma área de mata, com todos os objetos no interior. O carro foi levado à Delegacia de Matinhos com o apoio da Polícia Militar.</p>
-<p>As investigações seguem para identificar e responsabilizar os autores do crime.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547405/evoweb/pr/prbandabseg_eac9fd8876a4433cabe038f11bdc4be7dad280f1.jpg"/></p>
+<p>Dois homens armados com facas invadiram uma residência no Balneário Albatroz, trancaram um adolescente de 14 anos em um banheiro e levaram diversos pertences da família, incluindo um carro.</p>
+<p>O crime ocorreu por volta das 15h30 de sexta-feira, quando os responsáveis pelo adolescente não estavam em casa por motivo de saúde. Os suspeitos renderam o jovem e o mantiveram trancado enquanto recolhiam os objetos.</p>
+<p>Foram roubados celulares, televisões, calçados, malas com roupas destinadas à revenda e um carro. Após a denúncia, a polícia iniciou buscas na região e encontrou o veículo abandonado em uma área de mata, com todos os pertences no interior.</p>
+<p>O carro foi encaminhado à Delegacia de Matinhos com o apoio da Polícia Militar. As investigações continuam para identificar e responsabilizar os envolvidos no crime. A Polícia Civil segue trabalhando para esclarecer o caso e garantir a segurança da comunidade.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Homem é encontrado caído após agressão e esfaqueamento no bairro Hauer]]></title>
+<title><![CDATA[Homem é encontrado ferido após agressão e esfaqueamento no bairro Hauer]]></title>
 <link>https://www.bandab.com.br/seguranca/homem-agredido-esfaqueado-hauer/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Sat, 07 Feb 2026 13:26:11 GMT</pubDate>
 <category><![CDATA[Paraná]]></category>
 <guid isPermaLink="false"><![CDATA[prbandabseg:b33a38b6c936a5355f582b69af1c65785cc60a20]]></guid>
-<description><![CDATA[Um homem de aproximadamente 30 anos foi socorrido após ser agredido e esfaqueado na Rua Carlos de Laet, em Curitiba.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547408/evoweb/pr/prbandabseg_b33a38b6c936a5355f582b69af1c65785cc60a20.jpg" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547408/evoweb/pr/prbandabseg_b33a38b6c936a5355f582b69af1c65785cc60a20.jpg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547408/evoweb/pr/prbandabseg_b33a38b6c936a5355f582b69af1c65785cc60a20.jpg" type="image/jpeg" medium="image"/>
+<description><![CDATA[<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547408/evoweb/pr/prbandabseg_b33a38b6c936a5355f582b69af1c65785cc60a20.jpg"/></p><p>Um homem foi socorrido após ser agredido e esfaqueado na Rua Carlos de Laet, no bairro Hauer, em Curitiba. O suspeito fugiu do local e ainda não foi localizado.</p>]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547408/evoweb/pr/prbandabseg_b33a38b6c936a5355f582b69af1c65785cc60a20.jpg" length="0" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547408/evoweb/pr/prbandabseg_b33a38b6c936a5355f582b69af1c65785cc60a20.jpg" width="1200" height="675"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547408/evoweb/pr/prbandabseg_b33a38b6c936a5355f582b69af1c65785cc60a20.jpg" type="image/jpeg" medium="image" width="1200" height="675"/>
+<itunes:image href="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547408/evoweb/pr/prbandabseg_b33a38b6c936a5355f582b69af1c65785cc60a20.jpg"/>
 <content:encoded><![CDATA[
-<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547408/evoweb/pr/prbandabseg_b33a38b6c936a5355f582b69af1c65785cc60a20.jpg" style="max-width:100%;height:auto"/></p>
-<p>Um homem de aproximadamente 30 anos foi socorrido após ser agredido e esfaqueado na Rua Carlos de Laet, em Curitiba. A vítima foi encontrada caída na rua por testemunhas e apresentava ferimentos no rosto, em outras partes do corpo e um corte superficial na mão. O atendimento foi rápido devido à proximidade do local com o 20º Batalhão de Polícia Militar do Paraná.</p>
-<p>Após receber os primeiros socorros do Corpo de Bombeiros, o homem foi encaminhado à Unidade de Pronto Atendimento do Boqueirão para avaliação médica. O autor das agressões não foi localizado até o momento.</p>
-<p>Uma moradora da região acionou a Polícia Militar ao encontrar o homem ferido e relatou que ele estava consciente quando foi encontrado.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547408/evoweb/pr/prbandabseg_b33a38b6c936a5355f582b69af1c65785cc60a20.jpg"/></p>
+<p>Um homem foi socorrido após ser agredido e esfaqueado na Rua Carlos de Laet, no bairro Hauer, em Curitiba. O suspeito fugiu do local e ainda não foi localizado. O Corpo de Bombeiros atendeu a ocorrência na manhã deste sábado, próximo ao 20º Batalhão de Polícia Militar do Paraná. A vítima, de aproximadamente 30 anos, apresentava ferimentos no rosto, em outras partes do corpo e um corte superficial na mão causado por uma faca.</p>
+<p>Testemunhas encontraram o homem caído na rua e uma moradora da região acionou a Polícia Militar. Após receber os primeiros socorros, a vítima foi levada para a Unidade de Pronto Atendimento (UPA) do Boqueirão para avaliação médica.</p>
+<p>O autor das agressões não foi localizado até o momento. O caso segue sob investigação pelas autoridades competentes.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -73,17 +76,18 @@
 <pubDate>Sat, 07 Feb 2026 12:21:10 GMT</pubDate>
 <category><![CDATA[Paraná]]></category>
 <guid isPermaLink="false"><![CDATA[prbandabseg:9887706ab2fcf08ded484548afa68c1e3ad0d21b]]></guid>
-<description><![CDATA[Um policial civil foi preso temporariamente durante operação do Gaeco por suspeita de usar arma e distintivo para roubar carga de medicamentos ilegais apreendida em um ônibus no Paraná.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547415/evoweb/pr/prbandabseg_9887706ab2fcf08ded484548afa68c1e3ad0d21b.jpg" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547415/evoweb/pr/prbandabseg_9887706ab2fcf08ded484548afa68c1e3ad0d21b.jpg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547415/evoweb/pr/prbandabseg_9887706ab2fcf08ded484548afa68c1e3ad0d21b.jpg" type="image/jpeg" medium="image"/>
+<description><![CDATA[<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547415/evoweb/pr/prbandabseg_9887706ab2fcf08ded484548afa68c1e3ad0d21b.jpg"/></p><p>Policial civil foi preso temporariamente durante operação do Gaeco; uma mulher também foi detida.</p>]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547415/evoweb/pr/prbandabseg_9887706ab2fcf08ded484548afa68c1e3ad0d21b.jpg" length="0" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547415/evoweb/pr/prbandabseg_9887706ab2fcf08ded484548afa68c1e3ad0d21b.jpg" width="1200" height="675"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547415/evoweb/pr/prbandabseg_9887706ab2fcf08ded484548afa68c1e3ad0d21b.jpg" type="image/jpeg" medium="image" width="1200" height="675"/>
+<itunes:image href="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547415/evoweb/pr/prbandabseg_9887706ab2fcf08ded484548afa68c1e3ad0d21b.jpg"/>
 <content:encoded><![CDATA[
-<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547415/evoweb/pr/prbandabseg_9887706ab2fcf08ded484548afa68c1e3ad0d21b.jpg" style="max-width:100%;height:auto"/></p>
-<p>Um policial civil foi preso temporariamente durante operação do Gaeco por suspeita de usar arma e distintivo para roubar carga de medicamentos ilegais apreendida em um ônibus no Paraná.</p>
-<p>A operação “Off-Label” foi deflagrada pelo Núcleo de Londrina do Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco). As investigações começaram após a localização de um pacote com centenas de ampolas de origem desconhecida em um ônibus que saiu de Foz do Iguaçu. O material continha medicamentos para emagrecimento e anabolizantes.</p>
-<p>No dia seguinte à apreensão, o policial civil afastado teria ido até a empresa de transportes e, sob o pretexto de diligência oficial, usou a arma e o distintivo para coagir funcionários e retirar a carga recolhida. Além dele, uma passageira responsável pelo pacote também foi presa. Mandados de busca e apreensão foram cumpridos em endereços em Londrina, Foz do Iguaçu e Bragança Paulista.</p>
-<p>São investigados indícios de associação criminosa armada, roubo com uso de arma de fogo e comércio ilegal de produtos medicinais. A operação visou apreender medicamentos de origem estrangeira, drogas, dinheiro, celulares, computadores e documentos. A Polícia Civil e a Corregedoria-Geral da corporação apoiaram a ação.</p>
-<p>A Polícia Civil informou que colabora com as investigações e que um Procedimento Administrativo Disciplinar apura a conduta do servidor preso, reafirmando compromisso com a integridade institucional e rigor na apuração de condutas incompatíveis com o serviço público.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/upload/c_fill,g_auto,w_1200,h_675,f_auto,q_auto/v1770547415/evoweb/pr/prbandabseg_9887706ab2fcf08ded484548afa68c1e3ad0d21b.jpg"/></p>
+<p>Policial civil foi preso temporariamente durante operação do Gaeco; uma mulher também foi detida. Um policial civil é suspeito de usar arma de fogo e distintivo da corporação para roubar uma carga de medicamentos ilegais apreendida em um ônibus no Paraná. O caso é apurado no âmbito da operação “Off-Label”, deflagrada pelo Núcleo de Londrina do Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco).</p>
+<p>As apurações começaram após a localização de um pacote com centenas de ampolas de origem desconhecida dentro de um ônibus que saiu de Foz do Iguaçu. O material continha medicamentos para emagrecimento e anabolizantes. No dia seguinte à apreensão, o policial afastado teria ido até a empresa de transportes e, sob o pretexto de diligência oficial, usou a arma e o distintivo para coagir funcionários e retirar a carga recolhida.</p>
+<p>Além do policial, uma passageira apontada como responsável por deixar o pacote no ônibus também foi presa. Mandados de prisão temporária foram cumpridos contra os dois, assim como mandados de busca e apreensão em 11 endereços ligados a seis investigados nas cidades de Londrina, Foz do Iguaçu e Bragança Paulista.</p>
+<p>São analisados indícios de associação criminosa armada, roubo com uso de arma de fogo e comércio ilegal de produtos destinados a fins terapêuticos ou medicinais. A operação teve apoio da Polícia Civil e da Corregedoria-Geral da corporação.</p>
+<p>A Polícia Civil informou que está colaborando com as investigações do Gaeco e que um Procedimento Administrativo Disciplinar apura a conduta do servidor preso, reafirmando o compromisso com a integridade institucional e a rigorosa apuração de condutas incompatíveis com o serviço público.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
