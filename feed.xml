@@ -4,41 +4,55 @@
  xmlns:dc="http://purl.org/dc/elements/1.1/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Evo Web News - PR (Segurança)</title>
+<title>Evo Web News - PR (Multi-fontes)</title>
 <atom:link href="https://evwbr.github.io/pr/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/pr/</link>
-<description>Notícias de segurança do Paraná (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sun, 08 Feb 2026 13:48:49 GMT</lastBuildDate>
+<description>Notícias do Paraná (últimas 24h) reescritas com IA - Evo Web News</description>
+<lastBuildDate>Sun, 08 Feb 2026 14:33:22 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Adolescente de 12 anos desaparecido é encontrado próximo à rodoviária de Morretes]]></title>
-<link>https://www.bandab.com.br/seguranca/adolescente-desaparecido-encontrado-morretes/</link>
+<title><![CDATA[Sanepar constrói maior reservatório de aço da América Latina em Curitiba]]></title>
+<link>https://prportais.com.br/destaque/sanepar-constroi-o-maior-reservatorio-em-aco-da-america-latina/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 07 Feb 2026 14:56:54 GMT</pubDate>
+<pubDate>Sun, 08 Feb 2026 12:37:00 GMT</pubDate>
 <category><![CDATA[Paraná]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:a3f13b4038c137d9c837cce27ba06a429f15f247]]></guid>
-<enclosure url="https://evwbr.github.io/pr/thumbs/prseg:a3f13b4038c137d9c837cce27ba06a429f15f247.webp" length="195952" type="image/webp"/>
-<description><![CDATA[Após quase 30 horas desaparecido, adolescente de 12 anos foi localizado nas proximidades da rodoviária de Morretes, no litoral do Paraná.]]></description>
+<guid isPermaLink="false"><![CDATA[prmulti:71a1115a512933cacdc8ed593b08bcdb818f6984]]></guid>
+<description><![CDATA[A Companhia de Saneamento do Paraná avança na ampliação do Centro de Reservação Tatuquara com a construção de um reservatório de aço para 10 milhões de litros de água tratada.]]></description>
 <content:encoded><![CDATA[
-<p>Após quase 30 horas desaparecido, adolescente de 12 anos foi localizado nas proximidades da rodoviária de Morretes, no litoral do Paraná. O menino havia sido visto pela última vez por volta das 16h30 de quinta-feira. Buscas foram realizadas ao longo do dia para encontrá-lo.</p>
-<p>O adolescente foi localizado por volta das 21h de sexta-feira. Após os procedimentos necessários, ele foi entregue aos responsáveis. Não há informações sobre ferimentos ou as circunstâncias do desaparecimento.</p>
-<p>A atuação integrada das equipes e o apoio de outros policiais foram fundamentais para a localização do adolescente.</p>
+<p>A Companhia de Saneamento do Paraná avança na ampliação do Centro de Reservação Tatuquara com a construção de um reservatório de aço para 10 milhões de litros de água tratada. O novo reservatório, que será o maior da América Latina em aço, integra o Sistema de Abastecimento de Água de Curitiba e Região Metropolitana. A obra recebeu investimento aproximado de R$ 40 milhões e utiliza tecnologia de dupla camada.</p>
+<p>O empreendimento foi projetado para atender ao crescimento populacional de áreas como Campo do Santana e Fazenda Rio Grande, praticamente dobrando a capacidade de reservação local, que atualmente é de 15 milhões de litros.</p>
+<p>Para viabilizar a integração do sistema, uma parada programada no abastecimento ocorrerá na terça-feira (10), com normalização prevista para a madrugada de quarta (11). A entrega desta etapa está prevista para meados de 2026.</p>
+<p>A ampliação do Centro de Reservação Tatuquara representa um avanço importante na infraestrutura de abastecimento de água da região metropolitana de Curitiba.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Criminosos invadem casa, trancam adolescente e roubam carro em Matinhos]]></title>
-<link>https://www.bandab.com.br/seguranca/bandidos-invadem-casa-adolescente-roubam-carro/</link>
+<title><![CDATA[Governo do Paraná publica edital para leilão de desestatização da Celepar]]></title>
+<link>https://prportais.com.br/destaque/governo-do-parana-publica-edital-para-leilao-de-desestatizacao-da-celepar/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 07 Feb 2026 14:38:47 GMT</pubDate>
+<pubDate>Sun, 08 Feb 2026 12:34:00 GMT</pubDate>
 <category><![CDATA[Paraná]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:eac9fd8876a4433cabe038f11bdc4be7dad280f1]]></guid>
-<enclosure url="https://evwbr.github.io/pr/thumbs/prseg:eac9fd8876a4433cabe038f11bdc4be7dad280f1.webp" length="115174" type="image/webp"/>
-<description><![CDATA[Dois homens armados com facas invadiram uma residência no Balneário Albatroz, trancaram um adolescente de 14 anos no banheiro e roubaram diversos pertences da família, incluindo um carro.]]></description>
+<guid isPermaLink="false"><![CDATA[prmulti:a175167ac46939a448577c4dffb724e80cd42c66]]></guid>
+<description><![CDATA[O Governo do Paraná lançou o edital para a venda integral das ações da Celepar, com leilão marcado para 17 de março e valor mínimo de R$ 1,3 bilhão.]]></description>
 <content:encoded><![CDATA[
-<p>Dois homens armados com facas invadiram uma residência no Balneário Albatroz, trancaram um adolescente de 14 anos no banheiro e roubaram diversos pertences da família, incluindo um carro.</p>
-<p>O crime ocorreu por volta das 15h30 de uma sexta-feira. Os responsáveis pelo adolescente não estavam na casa no momento da invasão devido a questões de saúde. Durante a ação, os suspeitos mantiveram o jovem trancado enquanto recolhiam celulares, televisões, calçados, malas com roupas destinadas à revenda e o veículo da família.</p>
-<p>Após a denúncia, a polícia iniciou buscas na região. Cerca de três horas depois, o carro roubado foi encontrado abandonado em uma área de mata, com todos os objetos no interior. O veículo foi levado à Delegacia de Matinhos com o apoio da Polícia Militar.</p>
-<p>As investigações seguem em andamento para identificar e responsabilizar os envolvidos no crime. A Polícia Civil continua trabalhando para esclarecer o caso e garantir a segurança da comunidade local.</p>
+<p>O Governo do Paraná lançou o edital para a venda integral das ações da Celepar, com leilão marcado para 17 de março e valor mínimo de R$ 1,3 bilhão. Empresas nacionais e estrangeiras, fundos e instituições financeiras que comprovem capacidade técnica e regularidade jurídica, fiscal e econômico-financeira poderão participar do leilão. O objetivo é garantir que os participantes atuem em serviços de tecnologia com grau de complexidade equivalente ao da estatal.</p>
+<p>Apesar da transferência do controle, o Estado manterá uma 'golden share', que assegura poder de veto em decisões estratégicas, como mudança de sede ou deslocamento da infraestrutura de dados, que deverá permanecer no Paraná por pelo menos dez anos.</p>
+<p>O edital também prevê a continuidade dos serviços, o cumprimento da Lei Geral de Proteção de Dados e a observância das diretrizes de governança digital, para garantir estabilidade operacional durante a transição.</p>
+<p>O leilão da Celepar representa um passo importante na desestatização de empresas de tecnologia no Paraná, com regras claras para preservar interesses estratégicos do Estado.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[TCE-PR realiza primeira capacitação presencial de 2026 em Curitiba]]></title>
+<link>https://prportais.com.br/destaque/tce-pr-promove-primeira-capacitacao-presencial-de-2026-nos-dias-25-e-26-de-fevereiro/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 07 Feb 2026 18:20:38 GMT</pubDate>
+<category><![CDATA[Paraná]]></category>
+<guid isPermaLink="false"><![CDATA[prmulti:1e22087f532309fa1d615a1dfa8aa46d37a34201]]></guid>
+<description><![CDATA[O Tribunal de Contas do Estado do Paraná promove nos dias 25 e 26 de fevereiro a primeira capacitação presencial do ano, com foco em tecnologia e inovação para a gestão pública.]]></description>
+<content:encoded><![CDATA[
+<p>O Tribunal de Contas do Estado do Paraná promove nos dias 25 e 26 de fevereiro a primeira capacitação presencial do ano, com foco em tecnologia e inovação para a gestão pública. A capacitação faz parte do ciclo TCE-PR Conecta – Dados e Soluções para a Gestão Pública, que visa fortalecer a transparência e o controle social por meio de ferramentas tecnológicas. O evento será itinerante e passará por oito cidades do Paraná.</p>
+<p>A programação inclui apresentações de sistemas e programas de apoio à fiscalização e gestão pública, além de debates sobre avaliação de políticas públicas, planos de contingência para desastres climáticos, mudanças na Lei de Responsabilidade Fiscal, regras eleitorais e impactos da Reforma Tributária.</p>
+<p>Após a etapa inicial em Curitiba, o ciclo seguirá para Toledo, Umuarama, Guarapuava, Francisco Beltrão, Londrina, Jacarezinho e Maringá, ampliando a qualificação para gestores, servidores e cidadãos interessados no controle social.</p>
+<p>As inscrições para a capacitação são gratuitas e já estão abertas, proporcionando acesso à qualificação em diversas regiões do estado.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
