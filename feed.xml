@@ -2,13 +2,14 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:atom="http://www.w3.org/2005/Atom">
+ xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Evo Web News - PR (Segurança)</title>
 <atom:link href="https://evwbr.github.io/pr/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/pr/</link>
 <description>Notícias de segurança do Paraná (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sun, 08 Feb 2026 13:21:49 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 13:31:51 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
 <title><![CDATA[Adolescente de 12 anos desaparecido é encontrado próximo à rodoviária de Morretes]]></title>
@@ -16,40 +17,30 @@
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Sat, 07 Feb 2026 14:56:54 GMT</pubDate>
 <category><![CDATA[Paraná]]></category>
-<guid isPermaLink="false"><![CDATA[scmulti:a3f13b4038c137d9c837cce27ba06a429f15f247]]></guid>
-<description><![CDATA[Após quase 30 horas desaparecido, um adolescente foi localizado nas proximidades da rodoviária de Morretes, no litoral do Paraná.]]></description>
+<guid isPermaLink="false"><![CDATA[prseg:a3f13b4038c137d9c837cce27ba06a429f15f247]]></guid>
+<enclosure url="https://www.bandab.com.br/wp-content/uploads/2026/02/adolescente-desaparecido-morretes.jpg" type="image/jpeg"/>
+<media:thumbnail url="https://www.bandab.com.br/wp-content/uploads/2026/02/adolescente-desaparecido-morretes.jpg"/>
+<description><![CDATA[Após quase 30 horas desaparecido, um adolescente de 12 anos foi localizado nas proximidades da rodoviária de Morretes, no litoral do Paraná.]]></description>
 <content:encoded><![CDATA[
-<p>Após quase 30 horas desaparecido, um adolescente foi localizado nas proximidades da rodoviária de Morretes, no litoral do Paraná. O menino havia sido visto pela última vez por volta das 16h30 de quinta-feira. Buscas foram realizadas ao longo do dia para encontrá-lo.</p>
-<p>O adolescente foi localizado por volta das 21h de sexta-feira e, após os procedimentos necessários, foi entregue aos responsáveis. Não há informações sobre ferimentos ou as circunstâncias do desaparecimento.</p>
-<p>A atuação integrada das equipes policiais e o apoio durante as buscas foram fundamentais para a localização do adolescente.</p>
+<p>Após quase 30 horas desaparecido, um adolescente de 12 anos foi localizado nas proximidades da rodoviária de Morretes, no litoral do Paraná. O menino havia sido visto pela última vez por volta das 16h30 de quinta-feira. Buscas foram realizadas ao longo do dia para encontrá-lo.</p>
+<p>O adolescente foi encontrado por volta das 21h de sexta-feira e, após os procedimentos necessários, foi entregue aos responsáveis. Não há informações sobre ferimentos ou as circunstâncias do desaparecimento.</p>
+<p>A atuação integrada das equipes e o apoio de policiais foram fundamentais para a localização do adolescente.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Adolescente é trancado em banheiro durante roubo em Matinhos]]></title>
+<title><![CDATA[Adolescente é trancado em banheiro durante roubo a residência em Matinhos]]></title>
 <link>https://www.bandab.com.br/seguranca/bandidos-invadem-casa-adolescente-roubam-carro/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Sat, 07 Feb 2026 14:38:47 GMT</pubDate>
 <category><![CDATA[Paraná]]></category>
-<guid isPermaLink="false"><![CDATA[scmulti:eac9fd8876a4433cabe038f11bdc4be7dad280f1]]></guid>
-<description><![CDATA[Dois criminosos armados invadiram uma casa no Balneário Albatroz, trancaram um adolescente de 14 anos e roubaram um carro e vários pertences da família.]]></description>
+<guid isPermaLink="false"><![CDATA[prseg:eac9fd8876a4433cabe038f11bdc4be7dad280f1]]></guid>
+<enclosure url="https://www.bandab.com.br/wp-content/uploads/2026/02/bandidos-trancam-adolescente-banheiro-roubam-carro.jpg" type="image/jpeg"/>
+<media:thumbnail url="https://www.bandab.com.br/wp-content/uploads/2026/02/bandidos-trancam-adolescente-banheiro-roubam-carro.jpg"/>
+<description><![CDATA[Dois criminosos armados com facas invadiram uma casa no Balneário Albatroz, trancaram um adolescente de 14 anos em um banheiro e roubaram um carro e diversos objetos da família.]]></description>
 <content:encoded><![CDATA[
-<p>Dois criminosos armados invadiram uma casa no Balneário Albatroz, trancaram um adolescente de 14 anos e roubaram um carro e vários pertences da família. O crime ocorreu por volta das 15h30 de uma sexta-feira. Os responsáveis pelo adolescente não estavam no imóvel devido a motivos de saúde. Durante a invasão, os suspeitos renderam o jovem, o mantiveram trancado no banheiro e recolheram celulares, televisões, calçados, malas com roupas para revenda e o veículo da família.</p>
-<p>Após a denúncia, a polícia iniciou buscas na região e encontrou o carro abandonado em uma área de mata cerca de três horas depois, com todos os objetos roubados em seu interior. O veículo foi encaminhado à Delegacia de Matinhos com apoio da Polícia Militar.</p>
-<p>As investigações seguem em andamento para identificar e responsabilizar os autores do crime. A Polícia Civil continua trabalhando para esclarecer o caso e garantir a segurança da comunidade.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Homem é encontrado ferido após agressão e esfaqueamento no bairro Hauer]]></title>
-<link>https://www.bandab.com.br/seguranca/homem-agredido-esfaqueado-hauer/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 07 Feb 2026 13:26:11 GMT</pubDate>
-<category><![CDATA[Paraná]]></category>
-<guid isPermaLink="false"><![CDATA[scmulti:b33a38b6c936a5355f582b69af1c65785cc60a20]]></guid>
-<description><![CDATA[Um homem de aproximadamente 30 anos foi socorrido após ser agredido e esfaqueado na Rua Carlos de Laet, no bairro Hauer, em Curitiba.]]></description>
-<content:encoded><![CDATA[
-<p>Um homem de aproximadamente 30 anos foi socorrido após ser agredido e esfaqueado na Rua Carlos de Laet, no bairro Hauer, em Curitiba. A vítima foi encontrada caída na rua por testemunhas e apresentava ferimentos no rosto, em outras partes do corpo e um corte superficial na mão. O socorro foi realizado pelo Corpo de Bombeiros, e o homem foi encaminhado para a Unidade de Pronto Atendimento do Boqueirão para avaliação médica.</p>
-<p>O crime ocorreu próximo ao 20º Batalhão de Polícia Militar do Paraná. Uma moradora da região acionou a polícia ao ver o homem ferido. O autor das agressões não foi localizado até o momento.</p>
-<p>As autoridades continuam em busca do suspeito responsável pelo ataque.</p>
+<p>Dois criminosos armados com facas invadiram uma casa no Balneário Albatroz, trancaram um adolescente de 14 anos em um banheiro e roubaram um carro e diversos objetos da família. O crime ocorreu por volta das 15h30 de uma sexta-feira. Os responsáveis pelo adolescente não estavam no imóvel no momento da invasão devido a motivos de saúde. Os suspeitos renderam o adolescente e o mantiveram trancado enquanto recolhiam os pertences da casa.</p>
+<p>Foram levados celulares, televisões, calçados, malas com roupas destinadas à revenda e um carro. Após a comunicação do roubo, a polícia iniciou buscas na região e encontrou o veículo abandonado em uma área de mata cerca de três horas depois, com todos os objetos no interior.</p>
+<p>O carro foi encaminhado à Delegacia de Matinhos com apoio da Polícia Militar. As investigações continuam para identificar e responsabilizar os autores do crime. A Polícia Civil segue trabalhando para esclarecer o caso e garantir a segurança da comunidade local.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
