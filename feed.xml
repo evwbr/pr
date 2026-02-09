@@ -4,73 +4,156 @@
  xmlns:dc="http://purl.org/dc/elements/1.1/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Evo Web News - PR (Segurança)</title>
+<title>Evo Web News - PR (Multi-temas)</title>
 <atom:link href="https://evwbr.github.io/pr/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/pr/</link>
-<description>Notícias de segurança do Paraná (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Mon, 09 Feb 2026 14:18:29 GMT</lastBuildDate>
+<description>Notícias do Paraná (últimas 24h) multi-temas reescritas com IA - Evo Web News</description>
+<lastBuildDate>Mon, 09 Feb 2026 15:50:39 GMT</lastBuildDate>
 <language>pt-BR</language>
+<item>
+<title><![CDATA[Motociclista morre em colisão frontal com carro na BR-476, na Lapa]]></title>
+<link>https://evwbr.github.io/pr/p/prseg_09545bb8477ec762108d1c5678046548977444be/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 09 Feb 2026 13:46:45 GMT</pubDate>
+<category><![CDATA[PR - Trânsito]]></category>
+<guid isPermaLink="false"><![CDATA[prseg:09545bb8477ec762108d1c5678046548977444be]]></guid>
+<description><![CDATA[Um motociclista morreu após bater de frente com um carro na BR-476, no município da Lapa, na Região Metropolitana de Curitiba.]]></description>
+<content:encoded><![CDATA[
+<p>Um motociclista morreu após bater de frente com um carro na BR-476, no município da Lapa, na Região Metropolitana de Curitiba. O acidente ocorreu na noite de domingo, no quilômetro 188 da rodovia. A motocicleta trafegava no sentido Araucária quando invadiu a contramão e colidiu com o automóvel. Os ocupantes do carro não se feriram.</p>
+<p>A pista ficou totalmente bloqueada durante o trabalho da perícia e a remoção do corpo pelo Instituto Médico-Legal (IML), o que causou lentidão no trecho. A vítima não foi identificada.</p>
+<p>O caso segue sob investigação pelas autoridades responsáveis.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Acidente grave na RMC envolve motociclistas e motorista de aplicativo; um motociclista foge sem CNH]]></title>
+<link>https://evwbr.github.io/pr/p/prseg_c1c6e0fa5a62daa1f375d42931e8a470fd185c41/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 09 Feb 2026 13:12:47 GMT</pubDate>
+<category><![CDATA[PR - Trânsito]]></category>
+<guid isPermaLink="false"><![CDATA[prseg:c1c6e0fa5a62daa1f375d42931e8a470fd185c41]]></guid>
+<description><![CDATA[Um acidente envolvendo dois motociclistas e um carro deixou um jovem em estado grave em Fazenda Rio Grande, na Região Metropolitana de Curitiba.]]></description>
+<content:encoded><![CDATA[
+<p>Um acidente envolvendo dois motociclistas e um carro deixou um jovem em estado grave em Fazenda Rio Grande, na Região Metropolitana de Curitiba. O acidente ocorreu na Avenida São Cristóvão e mobilizou equipes de resgate, incluindo um helicóptero aeromédico. O motorista do carro, que trabalha como motorista de aplicativo, relatou que os motociclistas trafegavam em alta velocidade e que tentou mudar de faixa para evitar a colisão, mas não conseguiu devido à rapidez das motos.</p>
+<p>Um dos motociclistas, de 24 anos, sofreu ferimentos graves, como traumatismo cranioencefálico e fratura no fêmur, e foi socorrido de helicóptero ao hospital. O outro motociclista, de 19 anos, não possuía Carteira Nacional de Habilitação e fugiu do local após o acidente, tendo retirado a motocicleta que estava presa ao carro.</p>
+<p>O motorista do automóvel sofreu ferimentos leves e lamentou o ocorrido, destacando o risco à sua vida e a perda do veículo. O caso segue sob investigação pelas autoridades locais.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Carro capota após batida em cruzamento do Rebouças em Curitiba]]></title>
+<link>https://evwbr.github.io/pr/p/prseg_c23907c1db6be8f09e011750a2d122a3fe281f59/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 09 Feb 2026 12:47:32 GMT</pubDate>
+<category><![CDATA[PR - Trânsito]]></category>
+<guid isPermaLink="false"><![CDATA[prseg:c23907c1db6be8f09e011750a2d122a3fe281f59]]></guid>
+<description><![CDATA[Uma colisão entre dois veículos no bairro Rebouças resultou no capotamento de um dos carros, causando lentidão no trânsito local.]]></description>
+<content:encoded><![CDATA[
+<p>Uma colisão entre dois veículos no bairro Rebouças resultou no capotamento de um dos carros, causando lentidão no trânsito local. O acidente ocorreu no cruzamento das ruas Baltazar Carrasco dos Reis e Felipe Camarão, envolvendo um Renault Kwid e um Honda Fit. O motorista do Kwid relatou que trafegava pela via preferencial quando foi atingido pelo Honda Fit, que não respeitou a sinalização de pare e estava em velocidade acima do limite.</p>
+<p>Após a colisão, o Kwid foi levantado, colidiu contra uma árvore e capotou. O condutor não se feriu, mas o passageiro que estava no banco traseiro sofreu uma lesão no braço, recusando atendimento médico.</p>
+<p>O trecho do cruzamento ficou parcialmente bloqueado, causando lentidão no trânsito até a última atualização da reportagem. O motorista do Kwid afirmou estar ainda abalado após o acidente e não soube informar os próximos passos.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Pedestre morre atropelado por carreta na BR-277 em Palmeira]]></title>
+<link>https://evwbr.github.io/pr/p/prseg_bb08113186802545ebc64711d1bbc64981d3cd8b/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 09 Feb 2026 12:14:21 GMT</pubDate>
+<category><![CDATA[PR - Trânsito]]></category>
+<guid isPermaLink="false"><![CDATA[prseg:bb08113186802545ebc64711d1bbc64981d3cd8b]]></guid>
+<description><![CDATA[Um pedestre morreu ao ser atropelado por uma carreta na BR-277, em Palmeira, na noite de domingo.]]></description>
+<content:encoded><![CDATA[
+<p>Um pedestre morreu ao ser atropelado por uma carreta na BR-277, em Palmeira, na noite de domingo. O atropelamento ocorreu em um trecho da rodovia que possui uma terceira faixa e não conta com acostamento no sentido em que a carreta trafegava. A vítima estava sobre a faixa de rolamento no momento do acidente.</p>
+<p>O motorista da carreta foi submetido ao teste do bafômetro, que não indicou consumo de álcool. Após os procedimentos no local, o corpo do pedestre foi recolhido e encaminhado ao Instituto Médico Legal de Ponta Grossa.</p>
+<p>A identidade da vítima ainda não foi divulgada.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Acidente na PR-554 deixa duas mortes e dois feridos graves em família que seguia para aniversário]]></title>
+<link>https://evwbr.github.io/pr/p/prseg_ca312f1e553f9231720934d9d961bd55825463b7/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 09 Feb 2026 11:45:02 GMT</pubDate>
+<category><![CDATA[PR - Trânsito]]></category>
+<guid isPermaLink="false"><![CDATA[prseg:ca312f1e553f9231720934d9d961bd55825463b7]]></guid>
+<description><![CDATA[Duas pessoas morreram e outras duas ficaram gravemente feridas em um acidente envolvendo um carro na PR-554, no noroeste do Paraná, enquanto viajavam para comemorar o aniversário de um idoso de 96 anos.]]></description>
+<content:encoded><![CDATA[
+<p>Duas pessoas morreram e outras duas ficaram gravemente feridas em um acidente envolvendo um carro na PR-554, no noroeste do Paraná, enquanto viajavam para comemorar o aniversário de um idoso de 96 anos.</p>
+<p>A família seguia em comboio, com veículos diferentes, rumo à comemoração do aniversário de 96 anos de um idoso. O carro onde estavam as vítimas seguia por último. Em determinado momento, os familiares que estavam à frente perceberam que perderam o veículo de vista e, ao retornarem pela rodovia para verificar a situação, encontraram o local do acidente.</p>
+<p>No veículo estavam cinco pessoas. Dois passageiros, um homem de 86 anos e uma mulher de 70, morreram no local. Outras duas pessoas ficaram gravemente feridas e receberam atendimento médico imediato, sendo encaminhadas a hospitais da região. O estado de saúde delas não foi detalhado.</p>
+<p>Informações iniciais indicam que o motorista do veículo perdeu o controle da direção, ocasionando o acidente, mas as causas exatas ainda serão apuradas. Equipes do Corpo de Bombeiros, do Serviço de Atendimento Móvel de Urgência e um aeromédico foram mobilizadas para o atendimento da ocorrência.</p>
+<p>As vítimas fatais foram identificadas como Gildásio Alves de Araújo e Maria das Graças da Silva Dias, que serão sepultados no Cemitério Municipal de Paranacity.</p>
+]]></content:encoded>
+</item>
 <item>
 <title><![CDATA[Mulher com medida protetiva é morta a tiros pelo ex-marido em frente a casa noturna no Paraná]]></title>
 <link>https://evwbr.github.io/pr/p/prseg_2799bad006ac27f8375fbc3f155f42bc8c2158b0/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Mon, 09 Feb 2026 10:47:26 GMT</pubDate>
-<category><![CDATA[Paraná]]></category>
+<category><![CDATA[PR - Segurança]]></category>
 <guid isPermaLink="false"><![CDATA[prseg:2799bad006ac27f8375fbc3f155f42bc8c2158b0]]></guid>
-<description><![CDATA[Uma mulher de 30 anos foi assassinada com tiros na cabeça em frente a uma casa noturna em Toledo, no oeste do Paraná. O ex-marido, contra quem havia medida protetiva, é apontado como autor dos disparos.]]></description>
+<description><![CDATA[Uma mulher de 30 anos foi assassinada com tiros na cabeça em frente a uma casa noturna em Toledo, no oeste do Paraná. O ex-marido, contra quem havia medida protetiva, é o principal suspeito do crime.]]></description>
 <content:encoded><![CDATA[
-<p>Uma mulher de 30 anos foi assassinada com tiros na cabeça em frente a uma casa noturna em Toledo, no oeste do Paraná. O ex-marido, contra quem havia medida protetiva, é apontado como autor dos disparos.</p>
-<p>O crime ocorreu na manhã de domingo, quando o suspeito surpreendeu a vítima por volta das 5h e atirou à queima-roupa com um revólver calibre .38. A mulher morreu no local antes da chegada do socorro.</p>
-<p>Durante o ataque, uma segunda mulher foi atingida de raspão na cabeça e foi encaminhada ao hospital sem risco de morte após atendimento do Corpo de Bombeiros. Um policial à paisana que estava nas proximidades interveio e baleou o suspeito, que foi socorrido e levado ao hospital em estado grave, permanecendo sob escolta.</p>
-<p>Equipes das polícias Científica e Civil estiveram no local, apreenderam a arma usada no crime e encaminharam o corpo da vítima ao Instituto Médico Legal de Toledo. A Polícia Civil investiga o descumprimento da medida protetiva e as circunstâncias do crime.</p>
-<p>O caso segue sob investigação pelas autoridades competentes para esclarecer todos os detalhes do feminicídio.</p>
+<p>Uma mulher de 30 anos foi assassinada com tiros na cabeça em frente a uma casa noturna em Toledo, no oeste do Paraná. O ex-marido, contra quem havia medida protetiva, é o principal suspeito do crime.</p>
+<p>O crime ocorreu por volta das 5h, quando o suspeito surpreendeu a vítima e disparou à queima-roupa com um revólver calibre .38. A mulher morreu no local antes da chegada do socorro. Durante o ataque, uma segunda mulher foi atingida de raspão na cabeça e foi encaminhada ao hospital sem risco de morte.</p>
+<p>Um policial à paisana que estava nas proximidades interveio na situação, reagiu e baleou o suspeito. Ele foi socorrido pelo Samu e permanece hospitalizado sob escolta em estado grave. A arma usada no crime foi apreendida e o corpo da vítima encaminhado ao Instituto Médico Legal de Toledo.</p>
+<p>Equipes das polícias Científica e Civil estiveram no local para investigação. A Polícia Civil investiga o descumprimento da medida protetiva e as circunstâncias do feminicídio. O caso segue em apuração pelas autoridades responsáveis.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Homem desaparece durante passeio na Pedreira do Orleans; buscas continuam]]></title>
+<title><![CDATA[Grave acidente na BR-277 mata três pessoas, entre elas mãe e filho]]></title>
+<link>https://evwbr.github.io/pr/p/prseg_d6df0fd882ac9d868cd0d234f8339b590d189a81/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 09 Feb 2026 10:04:25 GMT</pubDate>
+<category><![CDATA[PR - Trânsito]]></category>
+<guid isPermaLink="false"><![CDATA[prseg:d6df0fd882ac9d868cd0d234f8339b590d189a81]]></guid>
+<description><![CDATA[Colisão envolvendo dois carros e um caminhão carregado com frango deixou três mortos e um ferido grave na BR-277, em Candói, no centro-sul do Paraná.]]></description>
+<content:encoded><![CDATA[
+<p>Colisão envolvendo dois carros e um caminhão carregado com frango deixou três mortos e um ferido grave na BR-277, em Candói, no centro-sul do Paraná. O acidente ocorreu quando um Renault Kwid invadiu a pista contrária e colidiu frontalmente com um caminhão Volvo carregado com frango. Com o impacto, o caminhão perdeu o controle, atravessou para a pista oposta e atingiu de frente um Ford Ecosport.</p>
+<p>Três pessoas que estavam no Ford Ecosport morreram, entre elas uma mãe e seu filho, de 56 e 19 anos. A terceira vítima ainda não foi identificada oficialmente. O condutor do Renault Kwid sofreu ferimentos graves e foi socorrido ao hospital, enquanto o motorista do caminhão não se feriu.</p>
+<p>A colisão provocou a interdição parcial da BR-277, que operou no sistema 'pare e siga' durante o atendimento às vítimas e a remoção dos veículos. O acidente mobilizou equipes de socorro e causou transtornos no tráfego da rodovia até a liberação total da pista.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Campeonato Paranaense 2026 define vagas para Série D e Copa do Brasil 2027]]></title>
+<link>https://evwbr.github.io/pr/p/prseg_351d1be51454482db30ec5d0d42d6b7f14900836/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 09 Feb 2026 00:22:00 GMT</pubDate>
+<category><![CDATA[PR - Esporte]]></category>
+<guid isPermaLink="false"><![CDATA[prseg:351d1be51454482db30ec5d0d42d6b7f14900836]]></guid>
+<description><![CDATA[O Campeonato Paranaense 2026 avança na definição dos representantes do Paraná nas competições nacionais de futebol em 2027, com vagas garantidas para a Série D e a Copa do Brasil.]]></description>
+<content:encoded><![CDATA[
+<p>O Campeonato Paranaense 2026 avança na definição dos representantes do Paraná nas competições nacionais de futebol em 2027, com vagas garantidas para a Série D e a Copa do Brasil. Pelo desempenho no Campeonato Paranaense, São Joseense, Azuriz e Foz do Iguaçu asseguraram presença na Série D do Campeonato Brasileiro de 2027. Essas vagas foram conquistadas considerando os critérios técnicos aplicados às equipes que não participam das Séries A, B ou C do Brasileirão.</p>
+<p>Na Copa do Brasil de 2027, Athletico, Coritiba, Londrina e Operário garantiram vaga por estarem nas semifinais do Estadual. O regulamento da Confederação Brasileira de Futebol permite que, caso Athletico e Coritiba permaneçam na Série A, suas vagas pelo Estadual sejam redistribuídas, abrindo até duas novas vagas para clubes paranaenses.</p>
+<p>Além disso, se Londrina e Operário alcançarem acesso à Série A, as quatro vagas obtidas via Estadual seriam redistribuídas, aumentando o número de representantes do Paraná na Copa do Brasil. A Copa Sul-Sudeste e os títulos das Séries C e D do Campeonato Brasileiro também podem gerar vagas extras para o Estado, dependendo dos resultados das equipes paranaenses nessas competições.</p>
+<p>Assim, o Campeonato Paranaense 2026 não só define os primeiros classificados para o calendário nacional de 2027, como também pode ampliar o número de vagas do Paraná em competições importantes do futebol brasileiro.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Operário vence Azuriz e avança à semifinal do Campeonato Paranaense]]></title>
+<link>https://evwbr.github.io/pr/p/prseg_050b9bf944c9e727029e544872c2fbc2073fbdee/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sun, 08 Feb 2026 23:28:32 GMT</pubDate>
+<category><![CDATA[PR - Esporte]]></category>
+<guid isPermaLink="false"><![CDATA[prseg:050b9bf944c9e727029e544872c2fbc2073fbdee]]></guid>
+<description><![CDATA[O Operário confirmou a classificação para a semifinal do Campeonato Paranaense ao vencer o Azuriz em Pato Branco, ampliando a vantagem construída no jogo de ida.]]></description>
+<content:encoded><![CDATA[
+<p>O Operário confirmou a classificação para a semifinal do Campeonato Paranaense ao vencer o Azuriz em Pato Branco, ampliando a vantagem construída no jogo de ida. O Operário abriu o placar ainda no primeiro tempo com um gol de cobertura de Edwin Torres aos 32 minutos. No.</p>
+<p>O Azuriz iniciou a partida pressionando, mas encontrou dificuldades para superar a defesa do Operário, que administrou o jogo e manteve o controle nas ações decisivas. Apesar de um pênalti a favor do Azuriz, o goleiro Vagner Silva defendeu a cobrança, mantendo o placar favorável ao Operário.</p>
+<p>O Operário terá o Coritiba como adversário na semifinal, com o primeiro jogo no Estádio Germano Krüger, em Ponta Grossa, e a partida de volta no Couto Pereira, em Curitiba. Com a vitória por 2 a 0 em Pato Branco e o placar agregado de 4 a 0, o Operário segue firme na disputa pelo título do Campeonato Paranaense.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Homem desaparece durante passeio na Pedreira do Orleans em Campo Magro]]></title>
 <link>https://evwbr.github.io/pr/p/prseg_c643dbfb99767d07c9c1833463f34f92ccfe3334/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Sun, 08 Feb 2026 21:01:49 GMT</pubDate>
-<category><![CDATA[Paraná]]></category>
+<category><![CDATA[PR - Segurança]]></category>
 <guid isPermaLink="false"><![CDATA[prseg:c643dbfb99767d07c9c1833463f34f92ccfe3334]]></guid>
-<description><![CDATA[Bruno César Fernandes de Almeida, de 29 anos, está desaparecido desde sábado após sair para um passeio na Pedreira do Orleans, em Campo Magro. Equipes do Corpo de Bombeiros seguem mobilizadas nas buscas.]]></description>
+<description><![CDATA[Bruno César Fernandes de Almeida, de 29 anos, está desaparecido desde sábado após sair para um passeio na pedreira do Orleans, em Campo Magro. Equipes do Corpo de Bombeiros seguem em busca do homem com o auxílio de drones e um cão farejador.]]></description>
 <content:encoded><![CDATA[
-<p>Bruno César Fernandes de Almeida, de 29 anos, está desaparecido desde sábado após sair para um passeio na Pedreira do Orleans, em Campo Magro. Equipes do Corpo de Bombeiros seguem mobilizadas nas buscas.</p>
-<p>Bruno César Fernandes de Almeida foi visto pela última vez no sábado, quando saiu de casa de bicicleta com destino ao lago da pedreira para passear e tomar banho. Desde então, não retornou para casa nem atendeu às mensagens e ligações da família.</p>
-<p>O Grupo de Operações de Socorro Tático iniciou as buscas na região, contando com informações de frequentadores que viram Bruno na área da represa, saindo do local com a mesma bicicleta preta com a qual havia saído de casa. O lago possui profundidade entre 14 e 30 metros, e as buscas são feitas tanto na água quanto na mata próxima.</p>
-<p>A irmã do homem desaparecido fez um apelo para que qualquer informação seja repassada às autoridades, ressaltando a esperança da família em encontrá-lo bem e em casa. Bruno trabalha como estagiário em Educação Física e é descrito como uma pessoa tranquila e caseira, que costumava pedalar apenas perto de casa.</p>
-<p>As equipes do Corpo de Bombeiros continuam as buscas com o auxílio de drones e um cão farejador, sem novas informações sobre o paradeiro de Bruno César até o momento.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Mãe denuncia irmão por suspeita de abuso sexual contra filha de 3 anos em Curitiba]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_75003986dc173b5a19596c62c262f2dc8e31904c/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 08 Feb 2026 15:37:30 GMT</pubDate>
-<category><![CDATA[Paraná]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:75003986dc173b5a19596c62c262f2dc8e31904c]]></guid>
-<description><![CDATA[Uma criança de 3 anos foi levada ao hospital após suspeita de abuso sexual cometido pelo tio materno, de 17 anos, no bairro Parolin, em Curitiba.]]></description>
-<content:encoded><![CDATA[
-<p>Uma criança de 3 anos foi levada ao hospital após suspeita de abuso sexual cometido pelo tio materno, de 17 anos, no bairro Parolin, em Curitiba. A mãe e a avó da menina precisaram sair de casa e deixaram a criança sob os cuidados do suspeito. Durante esse período, o crime teria ocorrido. A avó recebeu uma ligação do jovem informando que havia dado banho na sobrinha após ela ter feito necessidades na roupa e na cama.</p>
-<p>Ao retornarem para a residência, a mãe e a avó perceberam que a criança vestia as mesmas roupas, exceto pela calcinha, que havia sido trocada. Durante o banho, a menina relatou sentir dor na região íntima. A mãe constatou um ferimento e a criança afirmou que o tio teria a agredido.</p>
-<p>A criança foi levada imediatamente ao hospital, onde recebeu atendimento médico e passou por exames. A menina permanece internada sob cuidados médicos, sem previsão de alta. A mãe relatou o impacto emocional do caso, destacando o abalo por se tratar de alguém da confiança da família. A tia da vítima afirmou que espera que a justiça seja feita e que medidas cabíveis sejam tomadas para evitar que casos como esse voltem a acontecer.</p>
-<p>O boletim de ocorrência foi registrado e as investigações seguem em andamento.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Homem é morto a facadas no Pinheirinho; suspeito se entrega à polícia]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_f713323eae8a80d6de636630358e479230ab62ec/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 08 Feb 2026 14:19:39 GMT</pubDate>
-<category><![CDATA[Paraná]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:f713323eae8a80d6de636630358e479230ab62ec]]></guid>
-<description><![CDATA[Um homem de 35 anos foi esfaqueado e morreu na calçada após pedir ajuda no bairro Pinheirinho, em Curitiba. O autor do crime se entregou à polícia durante o atendimento da ocorrência e foi preso em flagrante.]]></description>
-<content:encoded><![CDATA[
-<p>Um homem de 35 anos foi esfaqueado e morreu na calçada após pedir ajuda no bairro Pinheirinho, em Curitiba. O autor do crime se entregou à polícia durante o atendimento da ocorrência e foi preso em flagrante.</p>
-<p>O crime ocorreu na Rua Egberto Acir Schimmelpfing Pereira no início da manhã. A vítima foi atingida por cinco facadas no tórax durante uma briga. Mesmo ferido, ele correu pela rua pedindo socorro, mas não resistiu aos ferimentos e morreu no local.</p>
-<p>O suspeito chegou ao local enquanto as equipes de resgate e polícia realizavam o atendimento, confessou o homicídio e indicou onde estavam as armas usadas no crime, que foram encontradas em um riacho próximo e encaminhadas para perícia. Testemunhas confirmaram a autoria do suspeito.</p>
-<p>A investigação apontou que tanto a vítima quanto o autor do crime eram usuários de drogas e haviam consumido bebida alcoólica antes da briga. O suspeito apresentava sinais de embriaguez no momento da prisão.</p>
-<p>Após a confissão, o suspeito foi encaminhado à delegacia e permanece à disposição da Justiça. O caso segue sob investigação pelas autoridades competentes.</p>
+<p>Bruno César Fernandes de Almeida, de 29 anos, está desaparecido desde sábado após sair para um passeio na pedreira do Orleans, em Campo Magro. Equipes do Corpo de Bombeiros seguem em busca do homem com o auxílio de drones e um cão farejador.</p>
+<p>Bruno foi visto pela última vez no sábado, quando saiu de casa de bicicleta com destino ao lago da pedreira, onde pretendia passear e tomar banho. Ele não retornou para casa e não atendeu às mensagens e ligações da família.</p>
+<p>O Grupo de Operações de Socorro Tático iniciou as buscas no local, recebendo informações de frequentadores que afirmaram ter visto Bruno na área da represa, saindo do local com a mesma bicicleta preta com a qual havia saído de casa.</p>
+<p>O lago da pedreira apresenta profundidades que variam entre 14 e 30 metros. As buscas estão sendo realizadas tanto na água quanto na região de mata próxima ao local. A irmã de Bruno, Gabriela Almeida, fez um apelo para que qualquer informação sobre o paradeiro do irmão seja comunicada às autoridades. Ela destacou que a família tem esperança de encontrá-lo e que ele volte para casa.</p>
+<p>Até o momento, não há novas informações sobre o paradeiro de Bruno César Fernandes de Almeida, e as equipes continuam mobilizadas nas buscas.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
