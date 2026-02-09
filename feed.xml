@@ -7,157 +7,53 @@
 <title>Evo Web News - PR (Multi-temas)</title>
 <atom:link href="https://evwbr.github.io/pr/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/pr/</link>
-<description>Notícias do Paraná (últimas 24h) multi-temas reescritas com IA - Evo Web News</description>
-<lastBuildDate>Mon, 09 Feb 2026 17:27:22 GMT</lastBuildDate>
+<description>Cobertura jornalística do Paraná com fatos, informações e atualizações recentes.</description>
+<lastBuildDate>Mon, 09 Feb 2026 17:40:15 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Motociclista morre em colisão frontal com carro na BR-476, na Lapa]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_09545bb8477ec762108d1c5678046548977444be/</link>
+<title><![CDATA[Criança de 3 anos recupera movimento dos pés após cirurgia inovadora no Paraná]]></title>
+<link>https://evwbr.github.io/pr/p/prseg_4f57abe138a6526aed83e4df38030035d68a5d28/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 09 Feb 2026 13:46:45 GMT</pubDate>
+<pubDate>Sun, 08 Feb 2026 20:27:08 GMT</pubDate>
+<category><![CDATA[PR - Paraná]]></category>
+<guid isPermaLink="false"><![CDATA[prseg:4f57abe138a6526aed83e4df38030035d68a5d28]]></guid>
+<description><![CDATA[Uma menina de 3 anos, nascida com mielomeningocele, voltou a mexer os pés após um procedimento cirúrgico realizado no Paraná, que eliminou a tração da medula espinhal causada por uma cicatriz de cirurgia anterior.]]></description>
+<content:encoded><![CDATA[
+<p>Uma menina de 3 anos, nascida com mielomeningocele, voltou a mexer os pés após um procedimento cirúrgico realizado no Paraná, que eliminou a tração da medula espinhal causada por uma cicatriz de cirurgia anterior.</p>
+<p>A condição congênita chamada mielomeningocele compromete a medula espinhal, afetando nervos, a mobilidade e funções vitais como intestino e bexiga. No caso da criança, o crescimento fez com que a medula ficasse presa à cicatriz de uma cirurgia anterior, provocando uma tração medular que resultou na perda progressiva dos movimentos das pernas.</p>
+<p>Diante da piora do quadro e do diagnóstico de seringomielia, a família buscou tratamento especializado no Paraná, organizando rifas e vaquinhas online para custear o procedimento. Em Londrina, um médico propôs uma técnica cirúrgica inovadora para soltar os nervos presos e tentar restaurar os movimentos.</p>
+<p>A cirurgia foi considerada um sucesso completo pela equipe médica, eliminando a tração da medula e reduzindo os riscos de complicações futuras. Após o procedimento, a criança começou a reabilitação com perspectivas de melhora na qualidade de vida, e a mãe relatou a urgência do tratamento ao perceber a perda progressiva dos movimentos da filha.</p>
+<p>O caso demonstra avanços importantes na área da saúde para o tratamento de malformações congênitas que afetam a medula espinhal, oferecendo novas esperanças para pacientes com condições semelhantes.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Três irmãos morrem em colisão entre carro e caminhão no Paraná]]></title>
+<link>https://evwbr.github.io/pr/p/prseg_9fb6030fafbfade5786bd21a19dd213297de9840/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sun, 08 Feb 2026 19:54:22 GMT</pubDate>
 <category><![CDATA[PR - Trânsito]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:09545bb8477ec762108d1c5678046548977444be]]></guid>
-<description><![CDATA[Um motociclista morreu após bater de frente com um carro na BR-476, no município da Lapa, na Região Metropolitana de Curitiba.]]></description>
+<guid isPermaLink="false"><![CDATA[prseg:9fb6030fafbfade5786bd21a19dd213297de9840]]></guid>
+<description><![CDATA[Um acidente entre um carro e um caminhão na BR-373, em Chopinzinho, resultou na morte de três irmãos na manhã de sábado.]]></description>
 <content:encoded><![CDATA[
-<p>Um motociclista morreu após bater de frente com um carro na BR-476, no município da Lapa, na Região Metropolitana de Curitiba. O acidente ocorreu no quilômetro 188 da rodovia, quando a motocicleta invadiu a contramão e colidiu frontalmente com o automóvel. A vítima morreu no local e não foi identificada.</p>
-<p>Os ocupantes do carro não sofreram ferimentos. A rodovia ficou totalmente bloqueada durante o trabalho da perícia e a remoção do corpo pelo Instituto Médico Legal. O bloqueio da pista causou lentidão no trecho enquanto as equipes atuavam no local do acidente.</p>
-<p>As circunstâncias exatas do acidente seguem sendo apuradas pelas autoridades competentes.</p>
+<p>Um acidente entre um carro e um caminhão na BR-373, em Chopinzinho, resultou na morte de três irmãos na manhã de sábado. O acidente ocorreu em uma batida transversal na rodovia e envolveu um carro com três irmãos e um caminhão. As vítimas foram duas irmãs gêmeas de 27 anos e o irmão mais velho de 37 anos, moradores de Coronel Vivida.</p>
+<p>O motorista do caminhão sofreu apenas ferimentos leves, recebeu atendimento no local e não precisou ser encaminhado para hospital. As autoridades estão investigando as causas do acidente.</p>
+<p>A tragédia causou comoção na população local devido à perda repentina dos três membros da mesma família. As investigações continuam para esclarecer as circunstâncias do acidente.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Acidente grave na RMC envolve motociclistas e motorista de aplicativo; um foge sem CNH]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_c1c6e0fa5a62daa1f375d42931e8a470fd185c41/</link>
+<title><![CDATA[Partida da Royal Cup termina em goleada na Arena Mundo Ric em Matinhos]]></title>
+<link>https://evwbr.github.io/pr/p/prseg_b653706af60944be04d5cb7eff2dea0d9af6dd19/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 09 Feb 2026 13:12:47 GMT</pubDate>
-<category><![CDATA[PR - Trânsito]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:c1c6e0fa5a62daa1f375d42931e8a470fd185c41]]></guid>
-<description><![CDATA[Um acidente na Avenida São Cristóvão, em Fazenda Rio Grande, deixou um motociclista em estado grave e outro fugiu do local sem CNH, após colisão com carro de motorista de aplicativo.]]></description>
-<content:encoded><![CDATA[
-<p>Um acidente na Avenida São Cristóvão, em Fazenda Rio Grande, deixou um motociclista em estado grave e outro fugiu do local sem CNH, após colisão com carro de motorista de aplicativo.</p>
-<p>O acidente ocorreu na tarde de domingo e envolveu dois motociclistas e um carro. O motorista do aplicativo relatou que os motociclistas trafegavam em alta velocidade e tentou evitar a colisão, mas não conseguiu devido à rapidez das motos. Um motociclista bateu na frente do carro, próximo à porta, e o outro acertou a lateral do veículo.</p>
-<p>O motociclista de 24 anos sofreu traumatismo cranioencefálico, fratura no fêmur e cortes na cabeça, sendo socorrido inicialmente pelo SIATE e depois transportado de helicóptero ao Hospital do Trabalhador. O outro motociclista, de 19 anos, não possuía Carteira Nacional de Habilitação e fugiu do local após o acidente, tendo sido visto retirando a motocicleta presa ao carro antes de fugir.</p>
-<p>O motorista do carro teve ferimentos leves no braço e na cabeça e lamentou a situação, afirmando que o acidente colocou sua vida em risco e que deverá perder o veículo devido aos danos.</p>
-<p>Equipes de resgate e o helicóptero aeromédico foram acionados para atender a ocorrência, que mobilizou o Corpo de Bombeiros e o SIATE na região.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Carro capota após batida em cruzamento do Rebouças]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_c23907c1db6be8f09e011750a2d122a3fe281f59/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 09 Feb 2026 12:47:32 GMT</pubDate>
-<category><![CDATA[PR - Trânsito]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:c23907c1db6be8f09e011750a2d122a3fe281f59]]></guid>
-<description><![CDATA[Colisão entre dois veículos no bairro Rebouças, em Curitiba, resultou no capotamento de um carro e deixou um passageiro ferido.]]></description>
-<content:encoded><![CDATA[
-<p>Colisão entre dois veículos no bairro Rebouças, em Curitiba, resultou no capotamento de um carro e deixou um passageiro ferido. Um acidente envolvendo um Renault Kwid e um Honda Fit ocorreu na manhã desta segunda-feira no cruzamento das ruas Baltazar Carrasco dos Reis e Felipe Camarão. O Kwid capotou após ser atingido pelo Honda Fit, que não respeitou a sinalização de pare e trafegava em velocidade acima do limite.</p>
-<p>O motorista do Kwid relatou o susto e afirmou que ainda está abalado com o ocorrido. O passageiro do Kwid sofreu uma lesão no braço, mas recusou atendimento médico. O trânsito no local ficou lento e a via parcialmente bloqueada após o acidente.</p>
-<p>As condições do trânsito permaneciam afetadas até a última atualização da reportagem.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Pedestre morre atropelado por carreta na BR-277 em Palmeira]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_bb08113186802545ebc64711d1bbc64981d3cd8b/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 09 Feb 2026 12:14:21 GMT</pubDate>
-<category><![CDATA[PR - Trânsito]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:bb08113186802545ebc64711d1bbc64981d3cd8b]]></guid>
-<description><![CDATA[Um pedestre morreu após ser atropelado por uma carreta na BR-277, em Palmeira, na noite de domingo. O motorista da carreta realizou o teste do bafômetro, que não indicou consumo de álcool.]]></description>
-<content:encoded><![CDATA[
-<p>Um pedestre morreu após ser atropelado por uma carreta na BR-277, em Palmeira, na noite de domingo. O motorista da carreta realizou o teste do bafômetro, que não indicou consumo de álcool.</p>
-<p>O acidente ocorreu em um trecho da rodovia que possui uma terceira faixa e não conta com acostamento no sentido em que a carreta trafegava. A carreta Scania R440, com placas de Loanda, seguia no sentido interior quando atingiu o pedestre que estava sobre a faixa de rolamento.</p>
-<p>A vítima ainda não foi identificada e morreu no local do atropelamento. O motorista foi submetido ao teste do etilômetro, que apresentou resultado negativo para ingestão de álcool.</p>
-<p>Após os procedimentos realizados no local, o corpo do pedestre foi recolhido e encaminhado ao Instituto Médico Legal de Ponta Grossa. As circunstâncias que levaram o pedestre a estar na faixa de rolamento não foram detalhadas.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Acidente na PR-554 deixa duas pessoas mortas e duas feridas em família que seguia para aniversário]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_ca312f1e553f9231720934d9d961bd55825463b7/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 09 Feb 2026 11:45:02 GMT</pubDate>
-<category><![CDATA[PR - Trânsito]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:ca312f1e553f9231720934d9d961bd55825463b7]]></guid>
-<description><![CDATA[Duas pessoas morreram e outras duas ficaram gravemente feridas em um acidente envolvendo um carro na PR-554, no noroeste do Paraná, enquanto seguiam para uma comemoração familiar.]]></description>
-<content:encoded><![CDATA[
-<p>Duas pessoas morreram e outras duas ficaram gravemente feridas em um acidente envolvendo um carro na PR-554, no noroeste do Paraná, enquanto seguiam para uma comemoração familiar. A família viajava em comboio com vários veículos a caminho da festa de aniversário de um idoso de 96 anos. O carro onde estavam as vítimas vinha por último no grupo. Em determinado momento, os familiares que seguiam à frente perceberam que haviam perdido o carro de vista e retornaram pela rodovia para verificar o que havia ocorrido, encontrando o veículo acidentado.</p>
-<p>No carro estavam cinco pessoas. Duas delas, um homem de 86 anos e uma mulher de 70, morreram no local. Outras duas sofreram ferimentos graves e receberam atendimento médico imediato, sendo encaminhadas a hospitais da região. O motorista teria perdido o controle da direção, mas as causas exatas do acidente ainda serão investigadas.</p>
-<p>Equipes do Corpo de Bombeiros, do Serviço de Atendimento Móvel de Urgência e um aeromédico foram acionadas para atender a ocorrência. As vítimas fatais foram identificadas e serão sepultadas no Cemitério Municipal de Paranacity.</p>
-<p>As autoridades continuam apurando as circunstâncias do acidente para esclarecer as causas do ocorrido.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Mulher com medida protetiva é morta a tiros pelo ex-marido em frente a casa noturna no Paraná]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_2799bad006ac27f8375fbc3f155f42bc8c2158b0/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 09 Feb 2026 10:47:26 GMT</pubDate>
-<category><![CDATA[PR - Segurança]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:2799bad006ac27f8375fbc3f155f42bc8c2158b0]]></guid>
-<description><![CDATA[Uma mulher de 30 anos foi assassinada a tiros na manhã de domingo em frente a uma casa noturna no oeste do Paraná. O ex-marido, contra quem havia medida protetiva, é apontado como autor do crime.]]></description>
-<content:encoded><![CDATA[
-<p>Uma mulher de 30 anos foi assassinada a tiros na manhã de domingo em frente a uma casa noturna no oeste do Paraná. O ex-marido, contra quem havia medida protetiva, é apontado como autor do crime.</p>
-<p>O crime ocorreu por volta das 5h, quando o suspeito surpreendeu a vítima e efetuou disparos à queima-roupa com um revólver calibre .38. A mulher morreu no local antes da chegada do socorro. Durante o ataque, uma segunda mulher foi atingida de raspão na cabeça e foi encaminhada ao hospital sem risco de morte.</p>
-<p>Um policial à paisana, que estava de folga e nas proximidades, reagiu ao ataque e baleou o suspeito. Ele foi socorrido pelo Serviço de Atendimento Móvel de Urgência (Samu) e levado ao hospital em estado grave, permanecendo sob escolta.</p>
-<p>Equipes das polícias Científica e Civil estiveram no local para realizar os procedimentos necessários. A arma utilizada no crime foi apreendida, e o corpo da vítima foi encaminhado ao Instituto Médico Legal de Toledo. A Polícia Civil investiga o descumprimento da medida protetiva e as circunstâncias do homicídio.</p>
-<p>O caso segue sob investigação para esclarecer todos os detalhes e responsabilidades envolvidas.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Grave acidente na BR-277 mata três pessoas, entre elas mãe e filho]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_d6df0fd882ac9d868cd0d234f8339b590d189a81/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 09 Feb 2026 10:04:25 GMT</pubDate>
-<category><![CDATA[PR - Trânsito]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:d6df0fd882ac9d868cd0d234f8339b590d189a81]]></guid>
-<description><![CDATA[Três pessoas morreram em uma colisão envolvendo dois carros e um caminhão na BR-277, no Paraná. Um homem ficou gravemente ferido.]]></description>
-<content:encoded><![CDATA[
-<p>Três pessoas morreram em uma colisão envolvendo dois carros e um caminhão na BR-277, no Paraná. Um homem ficou gravemente ferido. O acidente ocorreu na BR-277, em Candói, envolvendo um Ford Ecosport, um Renault Kwid e um caminhão carregado com frango. As vítimas fatais estavam no Ford Ecosport, incluindo uma mulher de 56 anos e seu filho de 19 anos. A terceira pessoa no veículo ainda não foi identificada.</p>
-<p>O motorista do Renault Kwid, de 48 anos, sofreu ferimentos graves e foi levado ao hospital. O condutor do caminhão, de 56 anos, não se feriu. O Kwid e o Ecosport trafegavam no mesmo sentido da rodovia, enquanto o caminhão seguia na direção contrária.</p>
-<p>O acidente aconteceu quando o Renault Kwid invadiu a pista contrária e colidiu frontalmente com o caminhão. O impacto fez o caminhão perder o controle e atingir de frente o Ford Ecosport. A rodovia precisou ser parcialmente interditada, funcionando no sistema 'pare e siga' durante o atendimento e remoção dos veículos.</p>
-<p>As autoridades continuam investigando as circunstâncias do acidente para esclarecer os detalhes.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Campeonato Paranaense define vagas para Série D e Copa do Brasil em 2027]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_351d1be51454482db30ec5d0d42d6b7f14900836/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 09 Feb 2026 00:22:00 GMT</pubDate>
+<pubDate>Sun, 08 Feb 2026 18:04:56 GMT</pubDate>
 <category><![CDATA[PR - Esporte]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:351d1be51454482db30ec5d0d42d6b7f14900836]]></guid>
-<description><![CDATA[O Campeonato Paranaense 2026 está próximo da decisão e já assegurou as primeiras vagas do Paraná para competições nacionais em 2027.]]></description>
+<guid isPermaLink="false"><![CDATA[prseg:b653706af60944be04d5cb7eff2dea0d9af6dd19]]></guid>
+<description><![CDATA[A Arena Mundo Ric, em Matinhos, recebeu uma partida da Royal Cup, campeonato amador de futebol de sete inspirado na Kings League, que terminou com vitória do Espartanos por 14 a 2 sobre o Tanck.]]></description>
 <content:encoded><![CDATA[
-<p>O Campeonato Paranaense 2026 está próximo da decisão e já assegurou as primeiras vagas do Paraná para competições nacionais em 2027. São Joseense, Azuriz e Foz do Iguaçu garantiram presença na Série D do Campeonato Brasileiro de 2027, classificando-se pelo desempenho no Estadual e pelos critérios técnicos destinados às equipes que não participam das Séries A, B ou C do Brasileirão.</p>
-<p>Athletico, Coritiba, Londrina e Operário, semifinalistas do Paranaense, asseguraram vagas na Copa do Brasil de 2027 pelo critério estadual. O novo regulamento da CBF prevê que clubes da Série A têm vaga automática na Copa do Brasil, o que pode levar à redistribuição das vagas obtidas no Estadual, ampliando o número de representantes do Paraná na competição.</p>
-<p>Além disso, a Copa Sul-Sudeste e os títulos das Séries C e D do Campeonato Brasileiro podem gerar vagas adicionais para o Estado na Copa do Brasil, dependendo dos resultados das equipes paranaenses nessas competições.</p>
-<p>Assim, o número de clubes do Paraná na Copa do Brasil 2027 pode aumentar.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Operário vence Azuriz e avança à semifinal do Campeonato Paranaense]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_050b9bf944c9e727029e544872c2fbc2073fbdee/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 08 Feb 2026 23:28:32 GMT</pubDate>
-<category><![CDATA[PR - Esporte]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:050b9bf944c9e727029e544872c2fbc2073fbdee]]></guid>
-<description><![CDATA[O Operário confirmou a classificação para a semifinal do Campeonato Paranaense ao vencer o Azuriz em Pato Branco, ampliando a vantagem construída no jogo de ida.]]></description>
-<content:encoded><![CDATA[
-<p>O Operário confirmou a classificação para a semifinal do Campeonato Paranaense ao vencer o Azuriz em Pato Branco, ampliando a vantagem construída no jogo de ida. O Operário abriu o placar ainda no primeiro tempo com um gol de Edwin Torres, que recebeu lançamento nas costas da defesa e marcou por cobertura. Na etapa final, Boschilia ampliou o marcador após aproveitar um erro defensivo do Azuriz, repetindo o placar do jogo de ida e garantindo a vaga na semifinal.</p>
-<p>Durante a partida, o Azuriz pressionou buscando reverter o placar, mas encontrou dificuldades para superar a defesa do Operário. O time do oeste teve a chance de diminuir a desvantagem com um pênalti, mas o goleiro Vagner Silva defendeu a cobrança. O Operário ainda teve superioridade numérica após expulsões de jogadores do Azuriz, o que facilitou o controle da partida até o apito final.</p>
-<p>Na semifinal, o Operário enfrentará o Coritiba. O primeiro jogo será no Estádio Germano Krüger, em Ponta Grossa, e a partida de volta no Couto Pereira, em Curitiba. Com atuação segura e controle nos momentos decisivos, o Operário garantiu sua presença entre os quatro melhores do Campeonato Paranaense.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Homem desaparece durante passeio na Pedreira do Orleans em Campo Magro]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_c643dbfb99767d07c9c1833463f34f92ccfe3334/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 08 Feb 2026 21:01:49 GMT</pubDate>
-<category><![CDATA[PR - Segurança]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:c643dbfb99767d07c9c1833463f34f92ccfe3334]]></guid>
-<description><![CDATA[Bruno César Fernandes de Almeida, de 29 anos, está desaparecido desde sábado após sair para um passeio na Pedreira do Orleans. Equipes do Corpo de Bombeiros continuam as buscas no local.]]></description>
-<content:encoded><![CDATA[
-<p>Bruno César Fernandes de Almeida, de 29 anos, está desaparecido desde sábado após sair para um passeio na Pedreira do Orleans. Equipes do Corpo de Bombeiros continuam as buscas no local.</p>
-<p>Bruno César Fernandes de Almeida foi visto pela última vez no sábado, quando saiu de casa de bicicleta com destino ao lago da pedreira para passear e tomar banho. Desde então, não retornou para casa nem respondeu às tentativas de contato da família.</p>
-<p>O Grupo de Operações de Socorro Tático iniciou as buscas no domingo, recebendo informações de frequentadores de que Bruno esteve na área da represa e foi visto saindo com a mesma bicicleta preta com a qual havia saído de casa. O lago possui profundidade entre 14 e 30 metros, e as buscas acontecem tanto na água quanto na mata próxima.</p>
-<p>A irmã de Bruno fez um apelo por informações e afirmou que a família tem esperança de encontrá-lo bem e em casa. Bruno trabalha como estagiário em Educação Física e é descrito como uma pessoa tranquila e caseira, que costumava pedalar perto de casa.</p>
-<p>As equipes do Corpo de Bombeiros continuam mobilizadas, contando com o auxílio de drones e um cão farejador para localizar Bruno César Fernandes de Almeida.</p>
+<p>A Arena Mundo Ric, em Matinhos, recebeu uma partida da Royal Cup, campeonato amador de futebol de sete inspirado na Kings League, que terminou com vitória do Espartanos por 14 a 2 sobre o Tanck.</p>
+<p>O evento esportivo ocorreu na manhã do domingo, integrando a programação na Praia Brava de Caiobá e reunindo atletas, dirigentes e público local. A Royal Cup, organizada por equipes de Curitiba, adota o formato de futebol de sete com jogos mais curtos e regras adaptadas, promovendo uma competição dinâmica e voltada para o entretenimento.</p>
+<p>O presidente do Espartanos, Edimar Funke, destacou a importância do esporte e lazer para movimentar a comunidade e elogiou o apoio da Arena Mundo Ric na realização do evento. O caráter amistoso e festivo da partida foi ressaltado por representantes do Tanck, enfatizando a participação e o entretenimento para todos os envolvidos.</p>
+<p>A Kings League, criada em 2022, combina competição esportiva com elementos de entretenimento digital e ganhou destaque no Brasil após a conquista do título mundial em 2026. A Royal Cup segue essa inspiração, atraindo jovens universitários e adaptando o futebol ao comportamento do público jovem, que prefere jogos mais curtos com maior ação.</p>
+<p>A partida entre Espartanos e Tanck na Arena Mundo Ric proporcionou um espetáculo esportivo e de lazer, reforçando o crescimento do futebol de sete e a valorização de eventos que unem esporte e entretenimento no litoral do Paraná.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
