@@ -8,21 +8,34 @@
 <atom:link href="https://evwbr.github.io/pr/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/pr/</link>
 <description>Notícias do Paraná (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Thu, 21 May 2026 10:02:59 GMT</lastBuildDate>
+<lastBuildDate>Fri, 22 May 2026 07:04:20 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Colisão entre ônibus escolar e van fere duas crianças em Fazenda Rio Grande]]></title>
-<link>https://evwbr.github.io/pr/p/prseg_3a9d767b35492d03071eea47c3f8af306d3641db/</link>
+<title><![CDATA[Município de Cascavel é condenado por compartilhamento de figurinhas ofensivas em ambiente de trabalho]]></title>
+<link>https://evwbr.github.io/pr/p/prseg_469599e6ac01a481c2b8b87dd4d3c2962aadcf3e/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 20 May 2026 17:23:58 GMT</pubDate>
+<pubDate>Thu, 21 May 2026 23:06:41 GMT</pubDate>
 <category><![CDATA[Paraná]]></category>
-<guid isPermaLink="false"><![CDATA[prseg:3a9d767b35492d03071eea47c3f8af306d3641db]]></guid>
-<description><![CDATA[Duas crianças ficaram feridas após colisão entre um ônibus escolar e uma van no bairro Green Portugal, em Fazenda Rio Grande, na tarde desta quarta - feira.]]></description>
+<guid isPermaLink="false"><![CDATA[prseg:469599e6ac01a481c2b8b87dd4d3c2962aadcf3e]]></guid>
+<description><![CDATA[O Município de Cascavel foi condenado a indenizar uma servidora após figurinhas com palavras ofensivas associadas à sua imagem serem compartilhadas em grupos de WhatsApp no ambiente de trabalho.]]></description>
 <content:encoded><![CDATA[
-<p>O acidente ocorreu no cruzamento das ruas Londres e África do Sul, quando o ônibus escolar trafegava pela Rua África do Sul e a van pela Rua Londres.</p>
-<p>Moradores da região relataram que a sinalização no local é precária, destacando que a marcação de "pare" está apagada no asfalto, o que pode ter contribuído para a colisão.</p>
-<p>As duas crianças feridas foram atendidas após o acidente, mas não há informações sobre a gravidade dos ferimentos ou o encaminhamento médico.</p>
-<p>A situação da sinalização no cruzamento tem sido motivo de reclamação frequente entre os moradores, que pedem melhorias para evitar novos acidentes na região.</p>
+<p>A decisão judicial considerou provas como documentos anexados ao processo e depoimentos de testemunhas que confirmaram a circulação das figurinhas ofensivas. Uma testemunha afirmou que os stickers apareciam na aba de 'usadas com frequência' e também nos favoritos dos equipamentos, indicando o compartilhamento entre colegas da vítima.</p>
+<p>O magistrado Marco Vinícius Schiebel destacou que as imagens continham palavras ofensivas vinculadas à servidora, configurando assédio moral no ambiente profissional. Além da indenização, o Município foi condenado ao pagamento de honorários advocatícios equivalentes a 20% do valor da sentença.</p>
+<p>O caso evidencia a responsabilidade do empregador em coibir práticas que atentem contra a dignidade dos servidores, especialmente em ambientes digitais de trabalho, como grupos de WhatsApp.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Programa Casa Fácil Paraná oferece subsídios para compra da casa própria]]></title>
+<link>https://evwbr.github.io/pr/p/prseg_cb9fd36bee1818e08a95c19f320bbad920e3a9b1/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 21 May 2026 18:22:19 GMT</pubDate>
+<category><![CDATA[Paraná]]></category>
+<guid isPermaLink="false"><![CDATA[prseg:cb9fd36bee1818e08a95c19f320bbad920e3a9b1]]></guid>
+<description><![CDATA[O programa Casa Fácil Paraná disponibiliza subsídios de até R$ 20 mil para famílias com renda de até quatro salários mínimos adquirirem imóveis com preço reduzido.]]></description>
+<content:encoded><![CDATA[
+<p>O Governo do Estado do Paraná oferece o programa Casa Fácil Paraná, que conta com quatro modalidades de atendimento: Valor de Entrada, Valor de Entrada – Terceira Idade, Viver Mais e Vida Nova.</p>
+<p>Para participar, os interessados devem estar inscritos no Cadastro de Pretendentes da Companhia de Habitação do Paraná (Cohapar) e manter o cadastro atualizado. A Cohapar concede subsídios de R$ 20 mil para ajudar no pagamento do valor de entrada para famílias com renda de até quatro salários mínimos, atualmente fixados em R$ 1.621.</p>
+<p>Os interessados devem manifestar interesse em um dos empreendimentos habilitados pelo programa Casa Fácil Paraná para garantir o benefício e avançar no processo de aquisição do imóvel.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
