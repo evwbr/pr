@@ -190,5 +190,21 @@
     "pageUrl": "https://evwbr.github.io/pr/p/prseg_46717a7c683f1c2fd7516c5474c7e3c97d4671fa/",
     "usedAt": 1785855743264,
     "usedAtIso": "2026-08-04T15:02:23.264Z"
+  },
+  "source:a104cb307b6f8ded4d857abf616d8075724f93b2": {
+    "url": "https://bandab.com.br/politica/eleicoes-2026/pt-pede-a-impugnacao-da-candidatura-de-deltan-dallagnol-ao-senado",
+    "title": "PT e Federação Brasil da Esperança pedem impugnação da candidatura de Deltan Dallagnol ao Senado no Paraná",
+    "guid": "prseg:1a6efab82eca8fb7ef0d54c516162ee4c6b5a7d9",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_1a6efab82eca8fb7ef0d54c516162ee4c6b5a7d9/",
+    "usedAt": 1785862940675,
+    "usedAtIso": "2026-08-04T17:02:20.675Z"
+  },
+  "source:f49fd06271461c9799435f2579f9b1d566ecdfce": {
+    "url": "https://bandab.com.br/noticias-parana/ciclone-bomba-sul-parana-alerta-ventos-fortes",
+    "title": "INMET alerta para possível ciclone bomba que pode atingir o Sul do Brasil e o Paraná",
+    "guid": "prseg:5070448a17e2b7aea3872533eb921660bdd7677a",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_5070448a17e2b7aea3872533eb921660bdd7677a/",
+    "usedAt": 1785862940675,
+    "usedAtIso": "2026-08-04T17:02:20.675Z"
   }
 }
