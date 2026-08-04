@@ -174,5 +174,21 @@
     "pageUrl": "https://evwbr.github.io/pr/p/prseg_d37b89e72e1ef2787896d80256f34f6888d572e3/",
     "usedAt": 1785805339654,
     "usedAtIso": "2026-08-04T01:02:19.654Z"
+  },
+  "source:679f5080607d8de7e5b8d1514cb5a547f2a3db1e": {
+    "url": "https://bandab.com.br/noticias-parana/frente-fria-deixa-parana-em-alerta-amarelo-para-tempestades",
+    "title": "INMET emite alerta amarelo para todo o Paraná devido à nova frente fria",
+    "guid": "prseg:236080e3f55c36163f26484d51d2998a856da5c1",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_236080e3f55c36163f26484d51d2998a856da5c1/",
+    "usedAt": 1785855743264,
+    "usedAtIso": "2026-08-04T15:02:23.264Z"
+  },
+  "source:c3c62d677a6c43e545adc83aea05f77f762a1a62": {
+    "url": "https://bandab.com.br/cascavel-pr/edital-seleciona-filme-de-media-metragem-para-o-festival-de-cinema-de-cascavel",
+    "title": "Cascavel abre inscrições para seleção de filme de média - metragem para Festival de Cinema",
+    "guid": "prseg:46717a7c683f1c2fd7516c5474c7e3c97d4671fa",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_46717a7c683f1c2fd7516c5474c7e3c97d4671fa/",
+    "usedAt": 1785855743264,
+    "usedAtIso": "2026-08-04T15:02:23.264Z"
   }
 }
