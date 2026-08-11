@@ -534,5 +534,21 @@
     "pageUrl": "https://evwbr.github.io/pr/p/prseg_5630489a2bdee6921ea6001a7c01a69884f5bd2e/",
     "usedAt": 1786467740010,
     "usedAtIso": "2026-08-11T17:02:20.010Z"
+  },
+  "source:b11f74bda6fe7ef75dfb7179c52ac491586e29fd": {
+    "url": "https://bandab.com.br/curitiba/trabalhador-cai-telhado-centro-curitiba",
+    "title": "Trabalhador fica ferido após queda de telhado no Centro de Curitiba",
+    "guid": "prseg:95d7139149bb1ee748dc4aa12f5637231aa93dd4",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_95d7139149bb1ee748dc4aa12f5637231aa93dd4/",
+    "usedAt": 1786474939508,
+    "usedAtIso": "2026-08-11T19:02:19.508Z"
+  },
+  "source:45237cd38b0de5b9ec733ee1ac4c00210ab3958e": {
+    "url": "https://bandab.com.br/transito/acidente-br-277-cascavel-viatura-policia-federal",
+    "title": "Motorista fica gravemente ferida após colisão com viatura da Polícia Federal na BR-277 em Cascavel",
+    "guid": "prseg:531cef847ad6b022f3d64542e3ab7543a80443e3",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_531cef847ad6b022f3d64542e3ab7543a80443e3/",
+    "usedAt": 1786474939508,
+    "usedAtIso": "2026-08-11T19:02:19.508Z"
   }
 }
