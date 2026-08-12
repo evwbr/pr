@@ -686,5 +686,21 @@
     "pageUrl": "https://evwbr.github.io/pr/p/prseg_170b7a4a28a58b8243678c9740726a791151cfef/",
     "usedAt": 1786568541766,
     "usedAtIso": "2026-08-12T21:02:21.766Z"
+  },
+  "source:42ade6551ea4fdfd3711216606d5447af6d441d8": {
+    "url": "https://bandab.com.br/noticias-parana/apos-tornado-pirai-do-sul-recebe-telhas-reconstrucao-imoveis-atingidos",
+    "title": "Defesa Civil entrega telhas e colchões para moradores atingidos por tornado em Piraí do Sul",
+    "guid": "prseg:45e0304c99a78cf4bc06e9e064f12c557da6ba37",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_45e0304c99a78cf4bc06e9e064f12c557da6ba37/",
+    "usedAt": 1786575739338,
+    "usedAtIso": "2026-08-12T23:02:19.338Z"
+  },
+  "source:f27fbefa01ea965631b6636fb7ca7a0ddf22e146": {
+    "url": "https://bandab.com.br/noticias-parana/apos-tornado-levantamento-aponta-falta-de-estrutura-contra-desastres-nos-municipios-dos-campos-gerais",
+    "title": "Somente 6 dos 19 municípios dos Campos Gerais têm estrutura adequada para enfrentar desastres climáticos",
+    "guid": "prseg:dad7259009d6b32ed973b34477e4401141e0d174",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_dad7259009d6b32ed973b34477e4401141e0d174/",
+    "usedAt": 1786575739338,
+    "usedAtIso": "2026-08-12T23:02:19.338Z"
   }
 }
