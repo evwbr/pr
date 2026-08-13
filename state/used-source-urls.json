@@ -774,5 +774,45 @@
     "pageUrl": "https://evwbr.github.io/pr/p/prseg_29c7c6c28712db3478dd60f56163a750384f79bf/",
     "usedAt": 1786658539540,
     "usedAtIso": "2026-08-13T22:02:19.540Z"
+  },
+  "source:171f503995475c11ceacd6135cdf117270bacdc7": {
+    "url": "https://bandab.com.br/transito/motociclista-morre-apos-colisao-com-carro-na-br-369-em-arapongas",
+    "title": "Motociclista de 23 anos morre após colisão lateral com carro na BR-369 em Arapongas",
+    "guid": "prseg:3397b8858a88bdc7b107c99f300943ab3247937d",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_3397b8858a88bdc7b107c99f300943ab3247937d/",
+    "usedAt": 1786662139426,
+    "usedAtIso": "2026-08-13T23:02:19.426Z"
+  },
+  "source:d4af6ae7df521fa681cd1743dc9657e187b153f7": {
+    "url": "https://bandab.com.br/transito/caminhao-carregado-suinos-tomba-rotatoria-butiatuvinha-deixa-dois-feridos",
+    "title": "Caminhão carregado com porcos tomba em rotatória no Butiatuvinha, em Curitiba",
+    "guid": "prseg:c376de087106a337c4a5c555e131702966defb8e",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_c376de087106a337c4a5c555e131702966defb8e/",
+    "usedAt": 1786662139426,
+    "usedAtIso": "2026-08-13T23:02:19.426Z"
+  },
+  "source:b96e61049f01f3c54b9cbb256c2b50a4fead2333": {
+    "url": "https://bandab.com.br/noticias-parana/situacao-emergencia-pirai-do-sul-tornado",
+    "title": "Paraná declara Situação de Emergência em Piraí do Sul após tornado causar danos na zona rural",
+    "guid": "prseg:754b602dc3a3bd351b49c9953851d5241b500854",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_754b602dc3a3bd351b49c9953851d5241b500854/",
+    "usedAt": 1786662139426,
+    "usedAtIso": "2026-08-13T23:02:19.426Z"
+  },
+  "source:f49069a3a48653960c5304e4660aea27eed1be98": {
+    "url": "https://bandab.com.br/transito/carreta-tomba-pr-418-acesso-br-277",
+    "title": "Carreta tomba e bloqueia acesso da PR-418 para a BR-277 em Curitiba",
+    "guid": "prseg:ec5564eb26da77aea015267f5fda3c267d908773",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_ec5564eb26da77aea015267f5fda3c267d908773/",
+    "usedAt": 1786662139426,
+    "usedAtIso": "2026-08-13T23:02:19.426Z"
+  },
+  "source:d64515931f767ccaf02a2b12fda50bcac67b4142": {
+    "url": "https://bandab.com.br/politica/eleicoes-2026/pesquisa-irg-grupo-ric-mostra-como-esta-a-disputa-pelas-duas-vagas-ao-senado-confira-os-numeros",
+    "title": "Pesquisa Grupo Ric/IRG aponta intenções de voto para o Senado nas Eleições 2026 no Paraná",
+    "guid": "prseg:c5809ffbad11309c41e2dc400caca5a11c84c94c",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_c5809ffbad11309c41e2dc400caca5a11c84c94c/",
+    "usedAt": 1786662139426,
+    "usedAtIso": "2026-08-13T23:02:19.426Z"
   }
 }
