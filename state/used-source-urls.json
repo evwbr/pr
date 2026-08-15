@@ -974,5 +974,37 @@
     "pageUrl": "https://evwbr.github.io/pr/p/prseg_0e79eec61315d33b4c19c9b79ffb2150ea1a0775/",
     "usedAt": 1786820539169,
     "usedAtIso": "2026-08-15T19:02:19.169Z"
+  },
+  "source:cca39dee7d7aba66ad8853b5769908711fd49563": {
+    "url": "https://bandab.com.br/regiao-metropolitana-de-curitiba/homem-encontrado-carro-rio-pinhais-identificado",
+    "title": "Homem morre após carro cair em rio em Pinhais; mulher está desaparecida",
+    "guid": "prseg:526038c8f9be6088d18105ff1e17c256688020fe",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_526038c8f9be6088d18105ff1e17c256688020fe/",
+    "usedAt": 1786824139303,
+    "usedAtIso": "2026-08-15T20:02:19.303Z"
+  },
+  "source:5bd02b112a2d3198e8a7eb2502136197bd48151a": {
+    "url": "https://bandab.com.br/transito/faixa-exclusiva-mario-tourinho-bloqueada-obras-curitiba",
+    "title": "Faixa exclusiva para ônibus na Rua General Mário Tourinho será bloqueada por 60 dias em Curitiba",
+    "guid": "prseg:3eb966350c0fac2073dbb2601d66088e0ca29f92",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_3eb966350c0fac2073dbb2601d66088e0ca29f92/",
+    "usedAt": 1786824139303,
+    "usedAtIso": "2026-08-15T20:02:19.303Z"
+  },
+  "source:93dbd3de8231ba5cc78ffcf33d50355f50ae6cf4": {
+    "url": "https://bandab.com.br/noticias-parana/tempestade-com-granizo-atinge-200-casas-no-parana",
+    "title": "Tempestades com granizo causam danos em 200 residências no Paraná",
+    "guid": "prseg:b19757aaad2ce7fc0bb361a90d923a732c92d0ab",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_b19757aaad2ce7fc0bb361a90d923a732c92d0ab/",
+    "usedAt": 1786824139303,
+    "usedAtIso": "2026-08-15T20:02:19.303Z"
+  },
+  "source:df0410eaed6d1be325afea746889bb2ff7beb3f3": {
+    "url": "https://bandab.com.br/seguranca/pai-preso-por-importunacao-sexual-filhos-do-suspeito-presos-acusados-coagir-vitima",
+    "title": "Pai e filhos são presos em Jacarezinho após denúncia de importunação sexual e tentativa de intimidação",
+    "guid": "prseg:301e715608667a91dfe3926366c0a62de55777c5",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_301e715608667a91dfe3926366c0a62de55777c5/",
+    "usedAt": 1786824139303,
+    "usedAtIso": "2026-08-15T20:02:19.303Z"
   }
 }
