@@ -1206,5 +1206,29 @@
     "pageUrl": "https://evwbr.github.io/pr/p/prseg_89e3a75608107ddf40e82fa5f09d940b6ae802c4/",
     "usedAt": 1786982539854,
     "usedAtIso": "2026-08-17T16:02:19.854Z"
+  },
+  "source:586cb3ab0b81593b5af58f44640294b83a8ce91b": {
+    "url": "https://bandab.com.br/saude/curitiba-leva-vacina-contra-gripe-a-supermercados-escolas-e-ate-novena",
+    "title": "Vacinação contra a gripe em Curitiba terá novos pontos de atendimento nesta semana",
+    "guid": "prseg:23e7353781e38c732421626f50829a847cd49de3",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_23e7353781e38c732421626f50829a847cd49de3/",
+    "usedAt": 1786986139529,
+    "usedAtIso": "2026-08-17T17:02:19.529Z"
+  },
+  "source:df21312edf8544a391da8ac797c61654344ecd07": {
+    "url": "https://bandab.com.br/transito/mula-invade-pr-445-provoca-acidente-com-carro-e-moto-quatro-pessoas-ficam-feridas-londrina",
+    "title": "Acidente na PR-445 em Londrina deixa quatro feridos após colisão com mula",
+    "guid": "prseg:c1c6ba2e03efc6b971ca389761a0ab2d721fc620",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_c1c6ba2e03efc6b971ca389761a0ab2d721fc620/",
+    "usedAt": 1786986139529,
+    "usedAtIso": "2026-08-17T17:02:19.529Z"
+  },
+  "source:f95ce38ecb1ded521a8a5b425ace09f389e369ae": {
+    "url": "https://bandab.com.br/transito/jovens-de-26-e-29-anos-morrem-em-colisao-frontal-faxinal",
+    "title": "Dois jovens morrem em colisão frontal entre caminhão e carro na PR-272 em Faxinal",
+    "guid": "prseg:3912e1809737d8c959392e2a210b2c2307c954ca",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_3912e1809737d8c959392e2a210b2c2307c954ca/",
+    "usedAt": 1786986139529,
+    "usedAtIso": "2026-08-17T17:02:19.529Z"
   }
 }
