@@ -1094,5 +1094,21 @@
     "pageUrl": "https://evwbr.github.io/pr/p/prseg_1a3a957d9ca0dbf7fc19280b587d92fa9a1d8faf/",
     "usedAt": 1786921339124,
     "usedAtIso": "2026-08-16T23:02:19.124Z"
+  },
+  "source:991a8d1d0ac1e5de531cea345236a9695a28208a": {
+    "url": "https://bandab.com.br/transito/obras-provocam-bloqueio-trecho-avenida-arthur-bernardes-veja-desvios-mudancas-onibus",
+    "title": "Trecho da Avenida Presidente Arthur da Silva Bernardes será bloqueado para obras em Curitiba",
+    "guid": "prseg:40a23d0c030fab40eed88f70be6494d7ff1a6dae",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_40a23d0c030fab40eed88f70be6494d7ff1a6dae/",
+    "usedAt": 1786928539328,
+    "usedAtIso": "2026-08-17T01:02:19.328Z"
+  },
+  "source:d1b30da5d4b56b78f6da566597d95414e0506f87": {
+    "url": "https://bandab.com.br/transito/grave-acidente-carro-carreta-mata-duas-pessoas-veiculo-completamente-destruido-pr-272",
+    "title": "Acidente entre carro e carreta na PR-272 mata duas pessoas no Norte do Paraná",
+    "guid": "prseg:b63aa72e1299876ffe6d86d6bc86dc7c1f9c1d8c",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_b63aa72e1299876ffe6d86d6bc86dc7c1f9c1d8c/",
+    "usedAt": 1786928539328,
+    "usedAtIso": "2026-08-17T01:02:19.328Z"
   }
 }
