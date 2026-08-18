@@ -1358,5 +1358,29 @@
     "pageUrl": "https://evwbr.github.io/pr/p/prseg_dedd51ea77020f6145beac72768e91839977c654/",
     "usedAt": 1787068939867,
     "usedAtIso": "2026-08-18T16:02:19.867Z"
+  },
+  "source:d2e08ff6a655a51d5d6564123764493a00044af4": {
+    "url": "https://bandab.com.br/noticias-parana/justica-do-parana-decide-que-escola-publica-nao-pode-transferir-aluno-com-tdah-para-a-educacao-especial-e-obriga-o-poder-publico-a-bancar-professor-tutor-exclusivo-psicoterapia-e-acompanhamento-medic",
+    "title": "Justiça do Paraná mantém aluno com TDAH na rede regular de ensino com acompanhamento individualizado",
+    "guid": "prseg:46e1d4aa38cb1a97030b115e2524d695d04ea449",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_46e1d4aa38cb1a97030b115e2524d695d04ea449/",
+    "usedAt": 1787079739453,
+    "usedAtIso": "2026-08-18T19:02:19.453Z"
+  },
+  "source:ee186a449e15769717c4450b1031a9cf9ed1501f": {
+    "url": "https://bandab.com.br/noticias-parana/nova-frente-fria-derruba-temperaturas-pelo-parana",
+    "title": "Frente fria provoca queda nas temperaturas e alerta para tempestades no Oeste e Sudoeste do Paraná",
+    "guid": "prseg:9bce5a7459a77b1b632fd88955418f7ce14d465b",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_9bce5a7459a77b1b632fd88955418f7ce14d465b/",
+    "usedAt": 1787079739453,
+    "usedAtIso": "2026-08-18T19:02:19.453Z"
+  },
+  "source:d9fece34792cd681a39c60f39e6e6b0f361580f9": {
+    "url": "https://bandab.com.br/noticias-parana/br-277-obras-contencao-quedas-barreira-litoral-parana",
+    "title": "EPR Litoral Pioneiro conclui obras de contenção em encostas da BR-277 no Litoral do Paraná",
+    "guid": "prseg:4104f1c99e33c9cc1d7ac79c4b5b97add093f2c1",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_4104f1c99e33c9cc1d7ac79c4b5b97add093f2c1/",
+    "usedAt": 1787079739453,
+    "usedAtIso": "2026-08-18T19:02:19.453Z"
   }
 }
