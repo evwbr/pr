@@ -1454,5 +1454,29 @@
     "pageUrl": "https://evwbr.github.io/pr/p/prseg_67e3f01d6daf279510a347ea59d47a66a0623e7c/",
     "usedAt": 1787148140012,
     "usedAtIso": "2026-08-19T14:02:20.012Z"
+  },
+  "source:ed06d3d24413677f58a65d7f238d11b283bc245b": {
+    "url": "https://bandab.com.br/transito/policia-aciona-protocolo-para-identificar-vitimas-na-br-373",
+    "title": "Acidente entre micro - ônibus da saúde e carreta na BR-373 deixa 23 mortos no Paraná",
+    "guid": "prseg:532b89468576a4515cdb82f66b31e1ddabb458ac",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_532b89468576a4515cdb82f66b31e1ddabb458ac/",
+    "usedAt": 1787151739418,
+    "usedAtIso": "2026-08-19T15:02:19.418Z"
+  },
+  "source:5cd999ef78d36d7a3ece29f64d403a33c2be5480": {
+    "url": "https://bandab.com.br/transito/ratinho-junior-se-manifesta-sobre-acidente-br-373-parana",
+    "title": "Acidente na BR-373 em Ipiranga deixa 22 mortos e mobiliza autoridades do Paraná",
+    "guid": "prseg:5460a0e9b915ea5c02aeee6cebb0344335323f02",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_5460a0e9b915ea5c02aeee6cebb0344335323f02/",
+    "usedAt": 1787151739418,
+    "usedAtIso": "2026-08-19T15:02:19.418Z"
+  },
+  "source:876df7337437126c754838a84cb55d99d93cd537": {
+    "url": "https://bandab.com.br/transito/acidente-na-br-373-e-o-mais-grave-no-parana-em-cinco-anos",
+    "title": "Acidente na BR-373 em Ipiranga é o mais grave no Paraná desde 2021, com 23 mortos",
+    "guid": "prseg:b9cbd3e399ad141ba5a8a3b921ccd0619e1e0f93",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_b9cbd3e399ad141ba5a8a3b921ccd0619e1e0f93/",
+    "usedAt": 1787151739418,
+    "usedAtIso": "2026-08-19T15:02:19.418Z"
   }
 }
