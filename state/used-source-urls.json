@@ -1502,5 +1502,21 @@
     "pageUrl": "https://evwbr.github.io/pr/p/prseg_cd5b9f7d91e2611a8578977c77ae24a766877a2d/",
     "usedAt": 1787158940047,
     "usedAtIso": "2026-08-19T17:02:20.047Z"
+  },
+  "source:4166f520095e6449e56fe885fed4db63fc32cc89": {
+    "url": "https://bandab.com.br/transito/acidente-prc-467-cascavel-marginal-adolescente",
+    "title": "Adolescente fica ferida em colisão entre caminhão e carro na PRc - 467 em Cascavel",
+    "guid": "prseg:31b59425f64d7d9599fa7c1d84cb3d8e05b9c233",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_31b59425f64d7d9599fa7c1d84cb3d8e05b9c233/",
+    "usedAt": 1787169739361,
+    "usedAtIso": "2026-08-19T20:02:19.361Z"
+  },
+  "source:09f9ff1b69b4839e5863f3e70a809ee1b65fd31a": {
+    "url": "https://bandab.com.br/transito/homem-lamenta-perda-mae-irmao-acidente-br-373",
+    "title": "Acidente na BR-373 em Ipiranga mata mãe e irmão de homem que viajava para tratamento médico",
+    "guid": "prseg:f92b598936937bf51cb3f2c5abdac25186c90a25",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_f92b598936937bf51cb3f2c5abdac25186c90a25/",
+    "usedAt": 1787169739361,
+    "usedAtIso": "2026-08-19T20:02:19.361Z"
   }
 }
