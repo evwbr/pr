@@ -1582,5 +1582,45 @@
     "pageUrl": "https://evwbr.github.io/pr/p/prseg_a6196455fc7951f63705b0cc35605016655a9102/",
     "usedAt": 1787234539787,
     "usedAtIso": "2026-08-20T14:02:19.787Z"
+  },
+  "source:a7eaeaf765d5462f7de76aa54202aa6635f34461": {
+    "url": "https://bandab.com.br/transito/rua-santo-inacio-curitiba-tera-alteracao-preferencia",
+    "title": "rua santo inacio Curitiba tera alteracao preferencia",
+    "guid": "prseg:83ecb3b826fed9d30d66e6847a466ed6dfd32b26",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_83ecb3b826fed9d30d66e6847a466ed6dfd32b26/",
+    "usedAt": 1787238139803,
+    "usedAtIso": "2026-08-20T15:02:19.803Z"
+  },
+  "source:d6cc7e3920e57c5b2b1a067b63850dfefa550e64": {
+    "url": "https://bandab.com.br/seguranca/homem-tornozeleira-eletronica-preso-vendendo-crack-apucarana",
+    "title": "homem tornozeleira eletronica preso vendendo crack Apucarana",
+    "guid": "prseg:c3667129f6a3f86a8f049542af0b7449fc64190a",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_c3667129f6a3f86a8f049542af0b7449fc64190a/",
+    "usedAt": 1787238139803,
+    "usedAtIso": "2026-08-20T15:02:19.803Z"
+  },
+  "source:142590e261facd43f8e7a24e937a55b6d96d8b81": {
+    "url": "https://bandab.com.br/seguranca/cao-farejador-encontra-crack-e-cocaina-no-morro-do-piolho",
+    "title": "Cao farejador encontra crack e cocaina no morro do piolho",
+    "guid": "prseg:a6aa585aeed8660235176b26a7274ea1b05acd33",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_a6aa585aeed8660235176b26a7274ea1b05acd33/",
+    "usedAt": 1787238139803,
+    "usedAtIso": "2026-08-20T15:02:19.803Z"
+  },
+  "source:d42aa017ddec48e81192c796a8ed9e89821c97f7": {
+    "url": "https://bandab.com.br/transito/acidente-colisao-tombamento-pinheirinho-curitiba",
+    "title": "acidente colisao tombamento pinheirinho Curitiba",
+    "guid": "prseg:924cdbc9301d3fb65fed78b80467c522568d18c6",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_924cdbc9301d3fb65fed78b80467c522568d18c6/",
+    "usedAt": 1787238139803,
+    "usedAtIso": "2026-08-20T15:02:19.803Z"
+  },
+  "source:d54b7869205a1fcb8feb2d14c04d7de6a2c69463": {
+    "url": "https://bandab.com.br/seguranca/luvas-desviadas-de-hospital-sao-encontradas-em-cascavel",
+    "title": "luvas desviadas de hospital sao encontradas em Cascavel",
+    "guid": "prseg:0f95e98e73cb06ec418ef51ae4b14a5d3e5a4797",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_0f95e98e73cb06ec418ef51ae4b14a5d3e5a4797/",
+    "usedAt": 1787238139803,
+    "usedAtIso": "2026-08-20T15:02:19.803Z"
   }
 }
