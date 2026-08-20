@@ -1630,5 +1630,37 @@
     "pageUrl": "https://evwbr.github.io/pr/p/prseg_0862472cf148dc73dfe13f6b0398236bc69fc043/",
     "usedAt": 1787245341535,
     "usedAtIso": "2026-08-20T17:02:21.535Z"
+  },
+  "source:b1625d33b6df6149152a783eafb9dcec9053a65e": {
+    "url": "https://bandab.com.br/transito/conversao-termina-em-morte-apos-grave-acidente-na-br-369-em-ubirata",
+    "title": "Conversao termina em morte apos grave acidente na br 369 em ubirata",
+    "guid": "prseg:a30a711a0aad807256d7c728d02768cb99d91794",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_a30a711a0aad807256d7c728d02768cb99d91794/",
+    "usedAt": 1787252539748,
+    "usedAtIso": "2026-08-20T19:02:19.748Z"
+  },
+  "source:625211fb086048e50eef5957fc411a5b39e4e1a9": {
+    "url": "https://bandab.com.br/noticias-parana/ciclone-extratropical-parana-fica-sob-alerta-para-vendaval",
+    "title": "ciclone extratropical Paraná fica sob alerta para vendaval",
+    "guid": "prseg:59e42209848fbd6f1e1cc05ba398ee6fe465c5cc",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_59e42209848fbd6f1e1cc05ba398ee6fe465c5cc/",
+    "usedAt": 1787252539748,
+    "usedAtIso": "2026-08-20T19:02:19.748Z"
+  },
+  "source:3b9fed081adb824cd5a4b5cac97274cd3e75b440": {
+    "url": "https://bandab.com.br/transito/peca-pesada-se-solta-de-caminhao-e-provoca-acidente-na-br-163-entre-cascavel-e-toledo",
+    "title": "peca pesada se solta de caminhao e provoca acidente na br 163 entre Cascavel e Toledo",
+    "guid": "prseg:7cdd45850b2a9bd59fccd7b1a1f4cc227a7d0eb4",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_7cdd45850b2a9bd59fccd7b1a1f4cc227a7d0eb4/",
+    "usedAt": 1787252539748,
+    "usedAtIso": "2026-08-20T19:02:19.748Z"
+  },
+  "source:c7f94f83a93886c2c99ee46e5eee40aae7977ff6": {
+    "url": "https://bandab.com.br/transito/menino-6-anos-sobrevive-tragedia-br-373-ipiranga",
+    "title": "Menino 6 anos sobrevive tragedia br 373 ipiranga",
+    "guid": "prseg:fba37f86da26c1e1adc3f0416e9749e2b328cf2d",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_fba37f86da26c1e1adc3f0416e9749e2b328cf2d/",
+    "usedAt": 1787252539748,
+    "usedAtIso": "2026-08-20T19:02:19.748Z"
   }
 }
