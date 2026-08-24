@@ -1950,5 +1950,45 @@
     "pageUrl": "https://evwbr.github.io/pr/p/prseg_f6514fb2904528dcd61ba13f45ea651204baa290/",
     "usedAt": 1787576539630,
     "usedAtIso": "2026-08-24T13:02:19.630Z"
+  },
+  "source:7a8933d8033d02e93f5bc1870181f071609adf36": {
+    "url": "https://bandab.com.br/nacional/motorista-causa-acidente-ao-desviar-de-cachorro",
+    "title": "Motorista causa acidente ao desviar de cachorro",
+    "guid": "prseg:3a7044dfc764ada5b8e4274b2994e9d3b669bae6",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_3a7044dfc764ada5b8e4274b2994e9d3b669bae6/",
+    "usedAt": 1787580139656,
+    "usedAtIso": "2026-08-24T14:02:19.656Z"
+  },
+  "source:57207f0f89c7f0f71e4b2e1692dd768e7c5f9351": {
+    "url": "https://bandab.com.br/seguranca/madrugada-de-violencia-homem-e-morto-a-tiros-em-foz-do-iguacu-na-frente-de-residencia",
+    "title": "madrugada de violencia homem e morto a tiros em Foz do Iguaçu na frente de residencia",
+    "guid": "prseg:a64a28ef361c62167fda4e0f264515b5ad7f73c8",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_a64a28ef361c62167fda4e0f264515b5ad7f73c8/",
+    "usedAt": 1787580139656,
+    "usedAtIso": "2026-08-24T14:02:19.656Z"
+  },
+  "source:2e3ad4f0144f4d2714cdf8ceecfe7fb8cde93022": {
+    "url": "https://bandab.com.br/transito/acidente-br-277-candoi-motorista-morto-mais-de-40-feridos",
+    "title": "Acidente br 277 candoi motorista morto mais de 40 feridos",
+    "guid": "prseg:56505e7228e6e6244387f04a8dcb2600ba4c5f58",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_56505e7228e6e6244387f04a8dcb2600ba4c5f58/",
+    "usedAt": 1787580139656,
+    "usedAtIso": "2026-08-24T14:02:19.656Z"
+  },
+  "source:060020b9069b8322df356990ffd87d40b461ae7a": {
+    "url": "https://bandab.com.br/seguranca/mulher-e-baleada-pelo-ex-namorado-em-itaperucu-suspeito-fugiu",
+    "title": "Mulher e baleada pelo ex namorado em itaperucu suspeito fugiu",
+    "guid": "prseg:80021ab7be44b8faf4ae706c316e1dacc53c06c6",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_80021ab7be44b8faf4ae706c316e1dacc53c06c6/",
+    "usedAt": 1787580139656,
+    "usedAtIso": "2026-08-24T14:02:19.656Z"
+  },
+  "source:892914dafcfa1ad024e2fe161c27796bdc902a9f": {
+    "url": "https://bandab.com.br/regiao-metropolitana-de-curitiba/guarda-municipal-morre-atropelado-trem-araucaria",
+    "title": "guarda municipal morre atropelado trem Araucária",
+    "guid": "prseg:3980e8b69742e2c589f6b387a362910ce0367631",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_3980e8b69742e2c589f6b387a362910ce0367631/",
+    "usedAt": 1787580139656,
+    "usedAtIso": "2026-08-24T14:02:19.656Z"
   }
 }
