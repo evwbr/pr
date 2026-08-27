@@ -2270,5 +2270,29 @@
     "pageUrl": "https://evwbr.github.io/pr/p/prseg_bf504545f58feddd5fa5fc584e263d28102dd779/",
     "usedAt": 1787832139345,
     "usedAtIso": "2026-08-27T12:02:19.345Z"
+  },
+  "source:3cf94fef337bb5c6709b6abdb82d00dd7f720248": {
+    "url": "https://bandab.com.br/seguranca/suspeitos-de-furto-em-supermercados-sao-presos-em-curitiba",
+    "title": "Suspeitos de furtar quase R$ 7 mil em supermercados são presos em Curitiba",
+    "guid": "prseg:c4e870248f14d4a0310758da54ab40b599e8ba13",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_c4e870248f14d4a0310758da54ab40b599e8ba13/",
+    "usedAt": 1787846539805,
+    "usedAtIso": "2026-08-27T16:02:19.805Z"
+  },
+  "source:48df636d59ae36165af45f6ca07d132f4ae8ab5d": {
+    "url": "https://bandab.com.br/noticias-parana/onda-de-calor-parana-tera-maxima-de-38c-e-chuva-forte",
+    "title": "onda de calor Paraná tera maxima de 38c e chuva forte",
+    "guid": "prseg:791fde9771e0c025ab5e4fe091569379aa32e3ab",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_791fde9771e0c025ab5e4fe091569379aa32e3ab/",
+    "usedAt": 1787846539805,
+    "usedAtIso": "2026-08-27T16:02:19.805Z"
+  },
+  "source:c1819a403ef075a6e06a64b29041c72153f34e30": {
+    "url": "https://bandab.com.br/transito/motoboy-atropelado-estudante-medicina-maringa-protocolo-morte-encefalica",
+    "title": "motoboy atropelado estudante medicina Maringá protocolo morte encefalica",
+    "guid": "prseg:fdeb5732fd900958f6ececfc70da81e2d1026194",
+    "pageUrl": "https://evwbr.github.io/pr/p/prseg_fdeb5732fd900958f6ececfc70da81e2d1026194/",
+    "usedAt": 1787846539805,
+    "usedAtIso": "2026-08-27T16:02:19.805Z"
   }
 }
